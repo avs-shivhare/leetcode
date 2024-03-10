@@ -12,31 +12,31 @@ public:
         if(target >= coins[ind]) take = f(ind,target-coins[ind],coins,dp);
         return dp[ind][target] = take+notTake;
     }
-    // int change(int target, vector<int>& coins) {
-    //     int n = coins.size();
-    //     vector<vector<int>> dp(n,vector<int>(target+1,-1));
-    //     return f(n-1,target,coins,dp);
-    // }
+    int change(int target, vector<int>& coins) {
+        int n = coins.size();
+        vector<vector<int>> dp(n,vector<int>(target+1,-1));
+        return f(n-1,target,coins,dp);
+    }
 
 
     //tabulation method
-    int change(int target, vector<int>& coins) {
-        int n = coins.size();
-        vector<vector<int>> dp(n,vector<int>(target+1,0));
-        for(int i =0; i<= target;i++) {
-            if(i%coins[0] == 0) dp[0][i] = 1;
-            else dp[0][i] = 0;
-        }
-        for(int i =1; i<n; i++) {
-            for(int j =0; j<=target; j++) {
-                int notTake = dp[i-1][j];
-                int take = 0;
-                if(j>= coins[i]) take = dp[i][j-coins[i]];
-                dp[i][j] = take+notTake;
-            }
-        }
-        return dp[n-1][target];
-    }
+    // int change(int target, vector<int>& coins) {
+    //     int n = coins.size();
+    //     vector<vector<int>> dp(n,vector<int>(target+1,0));
+    //     for(int i =0; i<= target;i++) {
+    //         if(i%coins[0] == 0) dp[0][i] = 1;
+    //         else dp[0][i] = 0;
+    //     }
+    //     for(int i =1; i<n; i++) {
+    //         for(int j =0; j<=target; j++) {
+    //             int notTake = dp[i-1][j];
+    //             int take = 0;
+    //             if(j>= coins[i]) take = dp[i][j-coins[i]];
+    //             dp[i][j] = take+notTake;
+    //         }
+    //     }
+    //     return dp[n-1][target];
+    // }
 
 
     //space optimization
@@ -57,5 +57,5 @@ public:
     //         prev = curr;
     //     }
     //     return prev[target];
-    //}
+    // }
 };
