@@ -1,6 +1,5 @@
 # leetcode
 <h2>Description:</h2>
-<br><br>
 Welcome to the LeetCode C++ Solutions repository! This repository is dedicated to providing efficient and well-commented solutions to problems from the LeetCode platform, specifically implemented in C++. Whether you're preparing for technical interviews or simply honing your algorithmic skills, you'll find a plethora of C++ solutions to various algorithmic and data structure problems here.
 <br><br>
 <h2>What is LeetCode?</h2>
