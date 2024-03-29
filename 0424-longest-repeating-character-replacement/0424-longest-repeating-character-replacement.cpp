@@ -5,13 +5,12 @@ public:
         int ans = 0;
         int n = s.size();
         int maxi = 0;
-        unordered_map<char,int> mpp;
+        vector<int> mpp(26,0);
         while(r<n) {
-            mpp[s[r]]++;
-            maxi = max(maxi,mpp[s[r]]);
+            mpp[s[r]-'A']++;
+            maxi = max(maxi,mpp[s[r]-'A']);
             if(r-l+1 - maxi > k) {
-                mpp[s[l]]--;
-                if(mpp[s[l]] == 0) mpp.erase(s[l]);
+                mpp[s[l]-'A']--;
                 l++;
             }
             if(r-l+1-maxi <= k)ans = r-l+1;
