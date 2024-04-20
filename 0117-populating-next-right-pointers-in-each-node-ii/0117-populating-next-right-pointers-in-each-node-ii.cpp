@@ -18,34 +18,46 @@ public:
 
 class Solution {
 public:
-    void f(Node* root,Node* temp) {
-        if(root == NULL) return;
-        if(temp){ 
-            root->next = temp;
-            if(temp->left) temp = temp->left;
-            else if(temp->right) temp= temp->right;
-        }
-        if(root->left) f(root->left,root->right);
-        if(root->right) f(root->right,temp);
-    }
+    //optimal solution
     Node* connect(Node* root) {
-        // f(root,NULL);
-        // return root;
         if(root == NULL) return root;
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()) {
-            int n = q.size();
-            for(int i =0; i<n; i++) {
-                Node* temp = q.front();
-                q.pop();
-                if(i+1 < n) {
-                    temp->next = q.front();
+        Node* head = root;
+        while(head) {
+            Node* temp = new Node(-1);
+            Node* tempHead = temp;
+            while(head) {
+                if(head->left) {
+                    temp->next = head->left;
+                    temp = temp->next;
                 }
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
+                if(head->right) {
+                    temp->next = head->right;
+                    temp = temp->next;
+                }
+                head = head->next;
             }
+            head = tempHead->next;
         }
         return root;
     }
+
+    //brute force solution using bsf
+    // Node* connect(Node* root) {
+    //     if(root == NULL) return root;
+    //     queue<Node*> q;
+    //     q.push(root);
+    //     while(!q.empty()) {
+    //         int n = q.size();
+    //         for(int i =0; i<n; i++) {
+    //             Node* temp = q.front();
+    //             q.pop();
+    //             if(i+1 < n) {
+    //                 temp->next = q.front();
+    //             }
+    //             if(temp->left) q.push(temp->left);
+    //             if(temp->right) q.push(temp->right);
+    //         }
+    //     }
+    //     return root;
+    // }
 };
