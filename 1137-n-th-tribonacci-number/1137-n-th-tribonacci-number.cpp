@@ -1,13 +1,18 @@
 class Solution {
 public:
-    int f(int i,vector<int> &dp) {
-        if(i == 0) return 0;
-        if(i<= 2) return 1;
-        if(dp[i] != -1) return dp[i];
-        return dp[i] = f(i-3,dp)+f(i-2,dp)+f(i-1,dp);
-    }
     int tribonacci(int n) {
-        vector<int> dp(n+1,-1);
-        return f(n,dp);
+        int ans = 0;
+        if(n == 0) return ans;
+        if(n == 1 || n == 2) return 1;
+        int f = 0,s =1,t =1;
+        int i =3;
+        while(i<=n) {
+            ans = f+s+t;
+            f = s;
+            s =t;
+            t = ans;
+            i++;
+        }
+        return ans;
     }
 };
