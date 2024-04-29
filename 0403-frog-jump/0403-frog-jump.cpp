@@ -16,8 +16,8 @@ public:
         return dp[ind][k] = result;
     }
     bool canCross(vector<int>& stones) {
-        vector<vector<int>> dp(2000,vector<int>(2000,-1));
         int n = stones.size();
+        vector<vector<int>> dp(n,vector<int>(n+1,-1));
         unordered_map<int,int> st;
         for(int i = 0; i<n; i++) {
             st[stones[i]] = i;
