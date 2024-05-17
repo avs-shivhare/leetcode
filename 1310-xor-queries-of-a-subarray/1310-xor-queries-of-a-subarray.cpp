@@ -3,12 +3,14 @@ public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
         int xr = 0;
         int n = arr.size();
+        // precompute xor of every index
         for(int i =0; i<n; i++) {
             xr ^= arr[i];
             arr[i] = xr;
         }
         int m = queries.size();
         vector<int> ans(m,0);
+        // finding answer of any queries by range precompute answer xor range answer
         for(int i =0; i<m; i++) {
             int left = queries[i][0];
             int right = queries[i][1];
