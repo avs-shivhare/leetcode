@@ -19,30 +19,48 @@ public:
     // }
 
 
-    // 2nd approach using bfs
+    // // 2nd approach using bfs
+    // bool canReach(vector<int>& arr, int start) {
+    //     int n = arr.size();
+    //     vector<bool> vis(n,false);
+    //     queue<int> q;
+    //     if(arr[start] == 0) return true;
+    //     int b = start-arr[start];
+    //     int f = start+arr[start];
+    //     vis[start] = true;
+    //     if(f < n) q.push(f);
+    //     if(b >= 0) q.push(b);
+    //     while(!q.empty()) {
+    //         int size = q.size();
+    //         for(int i =0; i<size; i++) {
+    //             int ind = q.front();
+    //             q.pop();
+    //             vis[ind] = true;
+    //             if(arr[ind] == 0) return true;
+    //             int f = ind + arr[ind];
+    //             int b = ind - arr[ind];
+    //             if(f < n && !vis[f]) q.push(f);
+    //             if(b >=0 && !vis[b]) q.push(b);
+    //         }
+    //     }
+    //     return false;
+    // }
+
+    // 3rd approach using queue
     bool canReach(vector<int>& arr, int start) {
+        queue<int> q;
+        q.push(start);
         int n = arr.size();
         vector<bool> vis(n,false);
-        queue<int> q;
-        if(arr[start] == 0) return true;
-        int b = start-arr[start];
-        int f = start+arr[start];
-        vis[start] = true;
-        if(f < n) q.push(f);
-        if(b >= 0) q.push(b);
         while(!q.empty()) {
-            int size = q.size();
-            for(int i =0; i<size; i++) {
-                int ind = q.front();
-                q.pop();
-                vis[ind] = true;
-                if(arr[ind] == 0) return true;
-                int f = ind + arr[ind];
-                int b = ind - arr[ind];
-                if(f < n && !vis[f]) q.push(f);
-                if(b >=0 && !vis[b]) q.push(b);
-            }
+            int ind = q.front();
+            vis[ind] = true;
+            q.pop();
+            if(arr[ind] == 0) return true;
+            if(ind-arr[ind] >=0 && !vis[ind-arr[ind]]) q.push(ind-arr[ind]);
+            if(ind+arr[ind] < n && !vis[ind+arr[ind]]) q.push(ind+arr[ind]);
         }
         return false;
     }
+
 };
