@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int numSteps(string s) {
         int step = 0;
         while(s != "1") {
@@ -10,15 +9,15 @@ public:
                     s[i] = '0';
                     i--;
                 }
-                if(i>=0) {
+                if(i>= 0) {
                     s[i] = '1';
                 }
-                else s.insert(s.begin(),'1');
-                //cout<<s<<endl;
+                else {
+                    s.insert(s.begin(),'1');
+                }
             }
             else {
                 s.pop_back();
-                //cout<<s<<endl;
             }
             step++;
         }
