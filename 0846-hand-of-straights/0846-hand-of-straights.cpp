@@ -38,18 +38,43 @@ public:
     //     return true;
     // }
 
+    // bool isNStraightHand(vector<int>& hand, int k) {
+    //     if(hand.size()%k != 0) return false;
+    //     sort(hand.begin(),hand.end());
+    //     while(!hand.empty()) {
+    //         vector<int> temp;
+    //         int i =0;
+    //         while(i<hand.size() && temp.size() != k) {
+    //             if(temp.empty() || temp.back() +1 == hand[i]) {
+    //                 temp.push_back(hand[i]);
+    //                 hand.erase(hand.begin()+i);
+    //             }
+    //             else i++;
+    //         }
+    //         if(temp.size() != k) return false;
+    //     }
+    //     return true;
+    // }
+
     bool isNStraightHand(vector<int>& hand, int k) {
         if(hand.size()%k != 0) return false;
         sort(hand.begin(),hand.end());
-        while(!hand.empty()) {
-            vector<int> temp;
+        int n = hand.size();
+        vector<bool> vis(n,false);
+        while(n >0) {
             int i =0;
+            vector<int> temp;
             while(i<hand.size() && temp.size() != k) {
-                if(temp.empty() || temp.back() +1 == hand[i]) {
-                    temp.push_back(hand[i]);
-                    hand.erase(hand.begin()+i);
+                if(vis[i]) {
+                    i++;
+                    continue;
                 }
-                else i++;
+                else if(temp.empty() || temp.back() +1 == hand[i]) {
+                    vis[i] = true;
+                    temp.push_back(hand[i]);
+                    n--;
+                }
+                i++;
             }
             if(temp.size() != k) return false;
         }
