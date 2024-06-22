@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int f(vector<int> &nums, int k) {
+    int find(vector<int> &nums,int k) {
         int n = nums.size();
-        int l =0,r=0,ans =0,sum =0;
-        while(r<n) {
-            sum += nums[r]%2;
-            while(sum > k) sum -= nums[l++]%2;
-            ans += r-l+1;
-            r++;
+        int i =0,j =0;
+        int odd = 0,ans = 0;
+        while(i<n) {
+            if(nums[i]&1) odd++;
+            while(j<i && odd > k) {
+                if(nums[j] & 1) odd--;
+                j++;
+            }
+            if(odd <= k) ans += i-j+1;
+            i++;
         }
         return ans;
     }
     int numberOfSubarrays(vector<int>& nums, int k) {
-        return f(nums,k)-f(nums,k-1);
+        return find(nums,k)-find(nums,k-1);
     }
 };
