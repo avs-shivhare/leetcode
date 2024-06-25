@@ -14,10 +14,10 @@ public:
     void update(TreeNode* root,int &maxi) {
         if(root == NULL) return;
         update(root->right,maxi);
-        root->val += maxi;
+        root->val+=maxi;
         maxi = root->val;
         update(root->left,maxi);
-    }
+    }  
     TreeNode* bstToGst(TreeNode* root) {
         int maxi = 0;
         update(root,maxi);
