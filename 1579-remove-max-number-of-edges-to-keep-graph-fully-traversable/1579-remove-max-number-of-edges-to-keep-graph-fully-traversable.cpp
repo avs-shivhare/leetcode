@@ -46,7 +46,7 @@ class disjointSet {
 };
 class Solution {
 public:
-    static bool compare(vector<int> t1,vector<int> t2) {
+    static bool compare(vector<int> &t1,vector<int> &t2) {
         if(t1[0] > t2[0]) return true;
         return false;
     }
