@@ -1,12 +1,13 @@
 class Solution {
 public:
     int find(vector<int> &nums,int dist) {
-        int left = 0,right =0;
+        int left = 0,right =1;
         int cnt = 0;
         int n = nums.size();
-        for(right = 1; right<n ; right++) {
-            while(nums[right]-nums[left] > dist) left++;
+        while(right < n) {
+            while(left < n && nums[right]-nums[left] > dist) left++;
             cnt += right-left;
+            right++;
         }
         return cnt;
     }
