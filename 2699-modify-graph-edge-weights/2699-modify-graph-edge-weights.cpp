@@ -34,6 +34,7 @@ public:
             if(i[2] != -1) continue;
             if(curr == target) {
                 i[2] = maxi;
+                continue;
             }
             i[2] = 1;
             adj[i[0]].push_back({i[1],1});
