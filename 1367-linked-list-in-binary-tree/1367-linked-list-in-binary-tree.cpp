@@ -21,17 +21,23 @@
  */
 class Solution {
 public:
-    bool check(ListNode* head,TreeNode* root) {
-        if(head == NULL) return true;
-        if(root == NULL || root->val != head->val) return false;
-        return check(head->next,root->left) || check(head->next,root->right);
-    }
-    bool isSubPath(ListNode* head, TreeNode* root) {
+    bool find(ListNode* head,TreeNode* root) {
+        if(head == NULL && root == NULL) return true;
         if(head == NULL) return true;
         if(root == NULL) return false;
+        if(head->val != root->val) return false;
+        return find(head->next,root->left) || find(head->next,root->right);
+    }
+    bool isSubPath(ListNode* head, TreeNode* root) {
+        if(head == NULL && root == NULL) return true;
+        if(head == NULL) return true;
+        if(root == NULL) return false;
+        bool ans = false;
+        bool temp = false;
         if(head->val == root->val) {
-            if(check(head,root)) return true;
+            ans =  find(head->next ,root->left) || find(head->next,root->right);
         }
-        return isSubPath(head,root->left) || isSubPath(head,root->right);
+        temp = isSubPath(head,root->left) || isSubPath(head,root->right);
+        return ans || temp;
     }
 };
