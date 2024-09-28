@@ -1,51 +1,53 @@
 class MyCircularDeque {
 public:
-    vector<int> q;
-    int n = 0;
+    vector<int> arr;
+    int size = 0;
     MyCircularDeque(int k) {
-        n = k;
+        size = k;
     }
     
     bool insertFront(int value) {
-        if(n == q.size()) return false;
-        q.insert(q.begin(),value);
+        if(arr.size() == size) return false;
+        arr.insert(arr.begin(),value);
         return true;
     }
     
     bool insertLast(int value) {
-        if(n == q.size()) return false;
-        q.push_back(value);
+        if(arr.size() == size) return false;
+        arr.push_back(value);
         return true;
     }
     
     bool deleteFront() {
-        if(q.empty()) return false;
-        q.erase(q.begin());
+        if(arr.empty()) return false;
+        arr.erase(arr.begin());
         return true;
     }
     
     bool deleteLast() {
-        if(q.empty()) return false;
-        q.erase(q.end()-1);
+        if(arr.empty()) return false;
+        arr.pop_back();
         return true;
     }
     
     int getFront() {
-        if(q.empty()) return -1;
-        return *(q.begin());
+        if(arr.empty()) return -1;
+        return arr.front();
     }
     
     int getRear() {
-        if(q.empty()) return -1;
-        return *(q.end()-1);
+        if(arr.empty()) return -1;
+        return arr.back();
     }
     
     bool isEmpty() {
-        return q.empty();
+        if(arr.empty()) return true;
+        return false;
     }
     
     bool isFull() {
-        return n == q.size();
+        if(arr.size() == size) return true;
+        return false;
     }
 };
 
