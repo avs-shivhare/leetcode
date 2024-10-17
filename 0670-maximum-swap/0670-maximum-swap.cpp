@@ -1,17 +1,16 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-        string temp = to_string(num);
-        int n = temp.size();
-        priority_queue<int> q;
-        q.push(num);
+        int ans = num;
+        string s = to_string(num);
+        int n = s.size();
         for(int i =0; i<n; i++) {
-            for(int j =i+1; j<n; j++) {
-                swap(temp[i],temp[j]);
-                q.push(stoi(temp));
-                swap(temp[i],temp[j]);
+            for(int j =0; j<n; j++) {
+                swap(s[i],s[j]);
+                ans = max(ans,stoi(s));
+                swap(s[i],s[j]);
             }
         }
-        return q.top();
+        return ans;
     }
 };
