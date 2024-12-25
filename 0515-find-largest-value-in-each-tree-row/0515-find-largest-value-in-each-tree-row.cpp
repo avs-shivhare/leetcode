@@ -19,12 +19,12 @@ public:
         while(!q.empty()) {
             int n = q.size();
             int maxi = INT_MIN;
-            for(int i =0; i<n; i++) {
-                TreeNode* temp = q.front();
+            for(int i = 0; i<n; i++) {
+                auto x = q.front();
                 q.pop();
-                maxi = max(maxi,temp->val);
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
+                if(x->left) q.push(x->left);
+                if(x->right) q.push(x->right);
+                maxi = max(maxi,x->val);
             }
             ans.push_back(maxi);
         }
