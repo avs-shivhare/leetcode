@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int f(int ind,int target,vector<int> &nums,vector<vector<int>> &dp) {
-        if(ind == 0) {
-            if(target == 0 && nums[ind] == 0) return 2;
-            if(target == 0 || nums[ind] == target) return 1;
+    //int dp[21][11000];
+    map<pair<int,int>,int> dp;
+    int find(int i,vector<int> &nums,int &target,int sum) {
+        if(i == nums.size()) {
+            if(target == sum) return 1;
             return 0;
         }
-        if(dp[ind][target] != -1) return dp[ind][target];
-        int nottake = f(ind-1,target,nums,dp);
-        int take =0;
-        if(nums[ind] <= target) take = f(ind-1,target-nums[ind],nums,dp);
-        return dp[ind][target] = take+nottake;
+        if(dp.count({i,sum})) return dp[{i,sum}];
+        int ans = 0;
+        ans += find(i+1,nums,target,sum+nums[i]);
+        ans += find(i+1,nums,target,sum-nums[i]);
+        return dp[{i,sum}] = ans;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        int sum = accumulate(nums.begin(),nums.end(),0);
-        if(sum-target <0 || (sum-target)%2 == 1) return 0;
-        target = (sum-target)/2;
-        vector<vector<int>> dp(n,vector<int>(target+1,-1));
-        return f(n-1,target,nums,dp);
+        //memset(dp,-1,sizeof(dp));
+        return find(0,nums,target,0);
     }
 };
