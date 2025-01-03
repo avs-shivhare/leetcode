@@ -36,6 +36,7 @@ Happy Coding in C++! 🚀
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2358-number-of-ways-to-split-array](https://github.com/avs-shivhare/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -54,5 +55,6 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/avs-shivhare/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/avs-shivhare/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
