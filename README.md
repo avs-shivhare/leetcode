@@ -66,6 +66,7 @@ Happy Coding in C++! 🚀
 | [2465-shifting-letters-ii](https://github.com/avs-shivhare/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avs-shivhare/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Happy Coding in C++! 🚀
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avs-shivhare/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avs-shivhare/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
