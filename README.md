@@ -55,6 +55,7 @@ Happy Coding in C++! 🚀
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avs-shivhare/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
