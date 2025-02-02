@@ -42,6 +42,7 @@ Happy Coding in C++! 🚀
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avs-shivhare/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/avs-shivhare/leetcode/tree/master/2145-grid-game) |
@@ -127,6 +128,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/avs-shivhare/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/avs-shivhare/leetcode/tree/master/2509-minimize-xor) |
 ## Counting
@@ -170,6 +172,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Matrix
 |  |
 | ------- |
