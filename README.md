@@ -103,6 +103,7 @@ Happy Coding in C++! 🚀
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/avs-shivhare/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/avs-shivhare/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -183,6 +184,7 @@ Happy Coding in C++! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -231,4 +233,12 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/avs-shivhare/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
