@@ -77,6 +77,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/avs-shivhare/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -107,6 +108,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/avs-shivhare/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -153,6 +155,7 @@ Happy Coding in C++! 🚀
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/avs-shivhare/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/avs-shivhare/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -274,6 +277,7 @@ Happy Coding in C++! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/avs-shivhare/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/avs-shivhare/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
