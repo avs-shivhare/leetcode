@@ -97,6 +97,7 @@ Happy Coding in C++! 🚀
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/avs-shivhare/leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/avs-shivhare/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3709-find-special-substring-of-length-k](https://github.com/avs-shivhare/leetcode/tree/master/3709-find-special-substring-of-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
