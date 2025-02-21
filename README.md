@@ -67,6 +67,7 @@ Happy Coding in C++! 🚀
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/avs-shivhare/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Happy Coding in C++! 🚀
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/avs-shivhare/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/avs-shivhare/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/avs-shivhare/leetcode/tree/master/2509-minimize-xor) |
+| [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 ## Counting
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avs-shivhare/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avs-shivhare/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 ## Simulation
 |  |
 | ------- |
