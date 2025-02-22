@@ -11,37 +11,34 @@
  */
 class Solution {
 public:
-    TreeNode* create(string &tra, int &ind,int level) {
-        if(ind >= tra.size()) return NULL;
-        int len = ind;
-        while(len<tra.size() && tra[len] != '-') len++;
-        int val = stoi(tra.substr(ind,len-ind+1));
-        TreeNode* root = new TreeNode(val);
-        ind = len;
-        level++;
-        int cnt  =0;
-        while(len < tra.size() && tra[len] == '-') {
-            len++;
-            cnt++;
-        }
-        if(cnt == level) {
-            ind = len;
-            root->left = create(tra,ind,level);
-        }
-        len = ind;
-        cnt  =0;
-        while(len < tra.size() && tra[len] == '-') {
-            len++;
-            cnt++;
-        }
-        if(cnt == level) {
-            ind = len;
-            root->right = create(tra,ind,level);
-        }
-        return root;
-    }
-    TreeNode* recoverFromPreorder(string traversal) {
+    TreeNode* recoverFromPreorder(string s) {
+        unordered_map<int,vector<TreeNode*>> mpp;
         int i = 0;
-        return create(traversal,i,0);
+        int n = s.size();
+        int c = 0;
+        while(i<n) {
+            string temp = "";
+            while(i<n && s[i] != '-') {
+                temp += s[i];
+                i++;
+            } 
+            TreeNode* root = new TreeNode(stoi(temp));
+            if(c == 0) {
+                mpp[c].push_back(root);
+            }
+            else {
+                auto x = mpp[c-1].back();
+                //cout<<x->val<<endl;
+                if(x->left == NULL) x->left = root;
+                else if(x->right == NULL) x->right = root;
+                mpp[c].push_back(root);
+            }
+            c = 0;
+            while(i<n && s[i] == '-') {
+                i++;
+                c++;
+            }
+        }
+        return mpp[0].back();
     }
 };
