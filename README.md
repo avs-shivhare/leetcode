@@ -48,6 +48,7 @@ Happy Coding in C++! 🚀
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/avs-shivhare/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/avs-shivhare/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avs-shivhare/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/avs-shivhare/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -78,6 +79,7 @@ Happy Coding in C++! 🚀
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/avs-shivhare/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/avs-shivhare/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/avs-shivhare/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## String
 |  |
