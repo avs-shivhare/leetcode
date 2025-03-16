@@ -66,6 +66,7 @@ Happy Coding in C++! 🚀
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avs-shivhare/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/avs-shivhare/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/avs-shivhare/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/avs-shivhare/leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -381,6 +382,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/avs-shivhare/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avs-shivhare/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/avs-shivhare/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/avs-shivhare/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/avs-shivhare/leetcode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
