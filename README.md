@@ -88,6 +88,7 @@ Happy Coding in C++! 🚀
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avs-shivhare/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/avs-shivhare/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/avs-shivhare/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/avs-shivhare/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 ## Dynamic Programming
 |  |
@@ -327,6 +328,7 @@ Happy Coding in C++! 🚀
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avs-shivhare/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avs-shivhare/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/avs-shivhare/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/avs-shivhare/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 ## Simulation
 |  |
