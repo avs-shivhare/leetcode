@@ -18,7 +18,6 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<bool>> vis(n,vector<bool>(m,false));
-        int prev = 0;
         int cnt = 0;
         vis[0][0] = true;
         q.push({grid[0][0],{0,0}});
@@ -34,7 +33,6 @@ public:
             cnt++;
             maxi = max(maxi,node);
             mpp[maxi] = cnt;
-            prev = node;
             for(int i = 0; i<4; i++) {
                 int newrow = r+rowdiff[i];
                 int newcol = c+coldiff[i];
