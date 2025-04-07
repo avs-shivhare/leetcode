@@ -1,26 +1,24 @@
 class Solution {
 public:
+    int dp[201][99001];
+    int find(int i,int sum,vector<int> &nums) {
+        if(sum < 0) return 0;
+        if(i == nums.size()) {
+            if(sum == 0) return 1;
+            return 0;
+        }
+        if(dp[i][sum] != -1) return dp[i][sum];
+        int take = 0,notTake = 0;
+        take = find(i+1,sum-nums[i],nums);
+        notTake = find(i+1,sum,nums);
+        return dp[i][sum] = max(take,notTake);
+    }
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int totalSum = accumulate(nums.begin(),nums.end(),0);
-        if(totalSum%2) return false;
-        int target = totalSum/2;
-        vector<bool> dp(target+1,false);
-        if(nums[0] <= target){
-            dp[0] = true;
-            dp[nums[0]] = true;
-        }
-        for(int i =1; i<n; i++) {
-            vector<bool> temp(target+1,false);
-            if(nums[0]<= target) temp[0]= true;
-            for(int j =1; j<= target; j++) {
-                bool notTake = dp[j];
-                bool take = false;
-                if(nums[i] <= j) take = dp[j-nums[i]];
-                temp[j] = take || notTake;
-            }
-            dp = temp;
-        }
-        return dp[target];
+        int sum = accumulate(nums.begin(),nums.end(),0);
+        if(sum & 1) return false;
+        memset(dp,-1,sizeof(dp));
+        int ans = find(0,sum/2,nums);
+        if(ans > 0) return true;
+        return false;
     }
 };
