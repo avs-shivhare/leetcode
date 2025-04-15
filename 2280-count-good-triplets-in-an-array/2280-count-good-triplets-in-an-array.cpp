@@ -1,6 +1,6 @@
 #include <ext/pb_ds/assoc_container.hpp> 
 #include <ext/pb_ds/tree_policy.hpp> 
-using namespace __gnu_pbds; 
+using namespace __gnu_pbds;
 
 class Solution {
 public:
@@ -11,14 +11,14 @@ public:
         for(int i = 0; i<n; i++) {
             mpp[nums1[i]] = i;
         }
-        long long total = 0;
+        long long ans = 0;
         for(int i = 0; i<n; i++) {
             int index = mpp[nums2[i]];
             long long left = st.order_of_key(index);
             long long right = (n-1-index)-(st.size()-left);
-            total += left*right;
+            ans += left*right;
             st.insert(index);
         }
-        return total;
+        return ans;
     }
 };
