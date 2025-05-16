@@ -102,6 +102,7 @@ Happy Coding in C++! 🚀
 | [2888-minimum-index-of-a-valid-split](https://github.com/avs-shivhare/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/avs-shivhare/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avs-shivhare/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avs-shivhare/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/avs-shivhare/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/avs-shivhare/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -144,6 +145,7 @@ Happy Coding in C++! 🚀
 | [2262-solving-questions-with-brainpower](https://github.com/avs-shivhare/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/avs-shivhare/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avs-shivhare/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avs-shivhare/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/avs-shivhare/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avs-shivhare/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -177,6 +179,7 @@ Happy Coding in C++! 🚀
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/avs-shivhare/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/avs-shivhare/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/avs-shivhare/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avs-shivhare/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/avs-shivhare/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
