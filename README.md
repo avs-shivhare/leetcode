@@ -33,6 +33,7 @@ Happy Coding in C++! 🚀
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -215,6 +216,7 @@ Happy Coding in C++! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -377,6 +379,7 @@ Happy Coding in C++! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
