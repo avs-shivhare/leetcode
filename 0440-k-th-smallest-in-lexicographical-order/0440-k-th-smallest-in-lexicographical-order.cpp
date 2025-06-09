@@ -1,26 +1,26 @@
 class Solution {
 public:
-    int find(int &n,long long n1,long long n2) {
-        int cnt = 0;
-        while(n1<=n) {
-            cnt += min((long long)n+1,n2)-n1;
-            n1 *=10;
-            n2 *= 10;
+    long long find(long long a,long long b,int &n) {
+        int ans = 0;
+        while(a<=n) {
+            ans += min((long long)n+1,b)-a;
+            a *= 10;
+            b *= 10;
         }
-        return cnt;
+        return ans;
     }
     int findKthNumber(int n, int k) {
+        long long ans = 1;
         k--;
-        int ans = 1;
         while(k) {
-            int temp = find(n,ans,ans+1);
-            if(temp <= k) {
-                k -= temp;
+            long long x = find(ans,ans+1,n);
+            if(x <= k) {
+                k -= x;
                 ans++;
             }
             else {
                 k--;
-                ans *=10;
+                ans *= 10;
             }
         }
         return ans;
