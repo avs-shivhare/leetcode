@@ -45,6 +45,7 @@ Happy Coding in C++! 🚀
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/avs-shivhare/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/avs-shivhare/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -175,6 +176,7 @@ Happy Coding in C++! 🚀
 | [0806-domino-and-tromino-tiling](https://github.com/avs-shivhare/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/avs-shivhare/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/avs-shivhare/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/avs-shivhare/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -336,6 +338,7 @@ Happy Coding in C++! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/avs-shivhare/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/avs-shivhare/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
