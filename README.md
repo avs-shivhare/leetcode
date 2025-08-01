@@ -35,6 +35,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/avs-shivhare/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -170,6 +171,7 @@ Happy Coding in C++! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/avs-shivhare/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
