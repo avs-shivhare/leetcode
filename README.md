@@ -41,6 +41,7 @@ Happy Coding in C++! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/avs-shivhare/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
@@ -667,6 +668,7 @@ Happy Coding in C++! 🚀
 | [0326-power-of-three](https://github.com/avs-shivhare/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/avs-shivhare/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/avs-shivhare/leetcode/tree/master/0867-new-21-game) |
@@ -711,6 +713,7 @@ Happy Coding in C++! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avs-shivhare/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/avs-shivhare/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
