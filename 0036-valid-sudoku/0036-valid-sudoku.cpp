@@ -1,20 +1,22 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        int n = board.size();
-        for(int i =0; i<n; i++) {
-            for(int j =0; j<n; j++) {
-                if(board[i][j] == '.') continue;
-                int r1 =0;
-                while(r1<n) {
-                    if(board[r1][j] == board[i][j] && i != r1) return false;
-                    if(board[i][r1] == board[i][j] && j != r1) return false;
-                    int r = 3*(i/3)+(r1/3);
-                    int c= 3*(j/3)+(r1%3);
-                    if(board[r][c] == board[i][j] && r != i && c != j) return false;
-                    r1++; 
+        for(int r = 0; r<9; r++) {
+            for(int c = 0; c<9; c++) {
+                if(board[r][c] == '.') continue;
+                for(int x = 0; x<9; x++) {
+                    if(x != r && board[x][c] == board[r][c]) {
+                        return false;
+                    }
+                    if(x != c && board[r][x] == board[r][c]) {
+                        return false;
+                    }
+                    int nr = (r/3)*3+(x/3);
+                    int nc = (c/3)*3+(x%3);
+                    if(r != nr && c != nc && board[nr][nc] == board[r][c]) {
+                        return false;
+                    }
                 }
-                
             }
         }
         return true;
