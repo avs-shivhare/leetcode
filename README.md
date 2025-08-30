@@ -33,6 +33,7 @@ Happy Coding in C++! 🚀
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
@@ -313,6 +314,7 @@ Happy Coding in C++! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
@@ -554,6 +556,7 @@ Happy Coding in C++! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/avs-shivhare/leetcode/tree/master/0498-diagonal-traverse) |
