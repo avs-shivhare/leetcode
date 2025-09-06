@@ -1,8 +1,15 @@
 class Solution {
 public:
+    long long f(long long a,long long b) {
+        if(a == 0) return 0ll;
+        if(b == 0) return 1ll;
+        if(b == 1) return a;
+        long long ans = f(a,b/2);
+        if(b & 1) return ans*ans*a;
+        return ans*ans;
+    }
     long long find(long long &s, long long e, long long power) {
-        long long p = 1;
-        for(int i = 0; i<power; i++) p *= 4ll;
+        long long p = f(4ll,power);
         long long mini = min(p-1,e);
         if(mini < s) return 0;
         long long ans = mini-s+1;
