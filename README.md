@@ -217,6 +217,7 @@ Happy Coding in C++! 🚀
 | [2262-solving-questions-with-brainpower](https://github.com/avs-shivhare/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/avs-shivhare/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/avs-shivhare/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/avs-shivhare/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/avs-shivhare/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/avs-shivhare/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -681,6 +682,7 @@ Happy Coding in C++! 🚀
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/avs-shivhare/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avs-shivhare/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/avs-shivhare/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/avs-shivhare/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -858,6 +860,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avs-shivhare/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/avs-shivhare/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avs-shivhare/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avs-shivhare/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
