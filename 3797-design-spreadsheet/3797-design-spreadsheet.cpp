@@ -1,37 +1,37 @@
 class Spreadsheet {
 public:
-    unordered_map<string,int> mpp;
+    unordered_map<int,int> arr[26];
     Spreadsheet(int rows) {
         
     }
     
     void setCell(string cell, int value) {
-        mpp[cell] = value;
+        int r = cell[0]-'A';
+        int c = stoi(cell.substr(1));
+        arr[r][c] = value;
     }
     
     void resetCell(string cell) {
-        mpp[cell] = 0;
+        int r = cell[0]-'A';
+        int c = stoi(cell.substr(1));
+        arr[r][c] = 0;
     }
     
     int getValue(string formula) {
-        string s1 = "",s2 = "";
-        for(int i = 1; i<formula.size(); i++) {
-            if(formula[i] == '+') {
-                s1 = formula.substr(1,i-1);
-                s2 = formula.substr(i+1);
-                int val1 = 0,val2 = 0;
-                if('A' <= s1[0] && s1[0] <= 'Z') {
-                    val1 = mpp[s1];
-                }
-                else val1 = stoi(s1);
-                if('A' <= s2[0] && s2[0] <= 'Z') {
-                    val2 = mpp[s2];
-                }
-                else val2 = stoi(s2);
-                return val1+val2;
+        stringstream s(formula.substr(1));
+        string temp = "";
+        int sum = 0;
+        while(getline(s,temp,'+')) {
+            if('0' <= temp[0] && temp[0] <= '9') {
+                sum += stoi(temp);
+            }
+            else {
+                int r = temp[0]-'A';
+                int c = stoi(temp.substr(1));
+                sum += arr[r][c];
             }
         }
-        return 0;
+        return sum;
     }
 };
 
