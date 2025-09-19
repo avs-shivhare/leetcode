@@ -194,6 +194,7 @@ Happy Coding in C++! 🚀
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/avs-shivhare/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/avs-shivhare/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Happy Coding in C++! 🚀
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avs-shivhare/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/avs-shivhare/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avs-shivhare/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -390,6 +392,7 @@ Happy Coding in C++! 🚀
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avs-shivhare/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/avs-shivhare/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/avs-shivhare/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -612,6 +615,7 @@ Happy Coding in C++! 🚀
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/avs-shivhare/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/avs-shivhare/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/avs-shivhare/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -721,6 +725,7 @@ Happy Coding in C++! 🚀
 | [2429-design-a-food-rating-system](https://github.com/avs-shivhare/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/avs-shivhare/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
