@@ -246,6 +246,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0038-count-and-say](https://github.com/avs-shivhare/leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/avs-shivhare/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/avs-shivhare/leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
@@ -337,6 +338,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -750,6 +752,7 @@ Happy Coding in C++! 🚀
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/avs-shivhare/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
