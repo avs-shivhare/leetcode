@@ -44,6 +44,7 @@ Happy Coding in C++! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/avs-shivhare/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/avs-shivhare/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -454,6 +455,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0135-candy](https://github.com/avs-shivhare/leetcode/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/avs-shivhare/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -685,6 +687,7 @@ Happy Coding in C++! 🚀
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/avs-shivhare/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avs-shivhare/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -851,6 +854,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/avs-shivhare/leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/avs-shivhare/leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -895,6 +899,7 @@ Happy Coding in C++! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/avs-shivhare/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
