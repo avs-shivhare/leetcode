@@ -57,6 +57,7 @@ Happy Coding in C++! 🚀
 | [0945-snakes-and-ladders](https://github.com/avs-shivhare/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/avs-shivhare/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/avs-shivhare/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avs-shivhare/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -459,6 +460,7 @@ Happy Coding in C++! 🚀
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/avs-shivhare/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/avs-shivhare/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avs-shivhare/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -690,6 +692,7 @@ Happy Coding in C++! 🚀
 | [0594-longest-harmonious-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/avs-shivhare/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avs-shivhare/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avs-shivhare/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -768,6 +771,7 @@ Happy Coding in C++! 🚀
 | [0830-largest-triangle-area](https://github.com/avs-shivhare/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/avs-shivhare/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/avs-shivhare/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avs-shivhare/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avs-shivhare/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/avs-shivhare/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
