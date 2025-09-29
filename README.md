@@ -60,6 +60,7 @@ Happy Coding in C++! 🚀
 | [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/avs-shivhare/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/avs-shivhare/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avs-shivhare/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/avs-shivhare/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/avs-shivhare/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -217,6 +218,7 @@ Happy Coding in C++! 🚀
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/avs-shivhare/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/avs-shivhare/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/avs-shivhare/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/avs-shivhare/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/avs-shivhare/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/avs-shivhare/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
