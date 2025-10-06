@@ -49,6 +49,7 @@ Happy Coding in C++! 🚀
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/avs-shivhare/leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
@@ -554,6 +555,7 @@ Happy Coding in C++! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/avs-shivhare/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/avs-shivhare/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/avs-shivhare/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -594,6 +596,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avs-shivhare/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -621,6 +624,7 @@ Happy Coding in C++! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/avs-shivhare/leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/avs-shivhare/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -655,6 +659,7 @@ Happy Coding in C++! 🚀
 | [0386-lexicographical-numbers](https://github.com/avs-shivhare/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/avs-shivhare/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/avs-shivhare/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/avs-shivhare/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -675,6 +680,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/avs-shivhare/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/avs-shivhare/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -922,6 +928,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/avs-shivhare/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
