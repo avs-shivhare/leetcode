@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool hasSameDigits(string s) {
-
-        while (true) {
-            if(s.size() == 2) {
-                if(s[0] == s[1]) return true;
-                return false;
+        while(s.size() > 2) {
+            string ans = "";
+            int n = s.size();
+            for(int i = 1; i<n; i++) {
+                ans += ((s[i-1]-'0')+(s[i]-'0'))%10+'0';
             }
-            string temp = "";
-            for(int i = 1; i<s.size(); i++) {
-                int sum = ((s[i-1]-'0')+(s[i]-'0'))%10;
-                temp += (sum+'0');
-            }
-            s = temp;
+            s = ans;
         }
-        return false;
+        //cout<<s<<endl;
+        return s[0] == s[1];
     }
 };
