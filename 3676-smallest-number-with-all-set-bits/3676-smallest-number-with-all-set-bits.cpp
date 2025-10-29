@@ -6,12 +6,7 @@ public:
             cnt++;
             n >>= 1;
         }
-        //cout<<cnt<<endl;
-        int ans = 0;
-        for(int i = 0; i<cnt; i++) {
-            ans |= 1<<i;
-            //cout<<ans<<endl;
-        }
-        return ans;
+        int ans = 1<<cnt;
+        return ans-1;
     }
 };
