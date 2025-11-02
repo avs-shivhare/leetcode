@@ -10,12 +10,12 @@ public:
         long long d0 = mid-mid/r[0];
         long long d1 = mid-mid/r[1];
         long long total = mid-mid/lcm;
-        if(d0 < d[0] || d1 < d[1]) return false;
-        return total >= 1ll*d[0]+d[1];
+        if(d0 >= d[0] && d1 >= d[1] && total >= 1ll*d[0]+d[1])  return true;
+        return false;
     }
     long long minimumTime(vector<int>& d, vector<int>& r) {
         long long h = hcf(r[0],r[1]);
-        long long lcm = (1ll*r[0]*r[1])/h;
+        long long lcm = 1ll*r[0]*r[1]/h;
         long long l = 0,r1 = 1e18;
         long long ans = 0;
         while(l<=r1) {
