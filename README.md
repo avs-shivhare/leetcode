@@ -50,6 +50,7 @@ Happy Coding in C++! 🚀
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/avs-shivhare/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/avs-shivhare/leetcode/tree/master/0830-largest-triangle-area) |
