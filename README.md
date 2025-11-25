@@ -422,6 +422,7 @@ Happy Coding in C++! 🚀
 | [0940-fruit-into-baskets](https://github.com/avs-shivhare/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/avs-shivhare/leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/avs-shivhare/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/avs-shivhare/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/avs-shivhare/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/avs-shivhare/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avs-shivhare/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -917,6 +918,7 @@ Happy Coding in C++! 🚀
 | [0830-largest-triangle-area](https://github.com/avs-shivhare/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/avs-shivhare/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/avs-shivhare/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/avs-shivhare/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/avs-shivhare/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avs-shivhare/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avs-shivhare/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
