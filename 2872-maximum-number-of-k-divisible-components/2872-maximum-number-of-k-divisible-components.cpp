@@ -1,26 +1,24 @@
 class Solution {
 public:
-    int cnt = 0;
-    long long dfs(int node,int par,vector<int> ans[],int &k,vector<int> &val) {
-        long long sum = val[node];
-        for(auto i: ans[node]) {
-            if(i != par) {
-                sum += dfs(i,node,ans,k,val);
-            }
+    int ans = 0;
+    long long find(int node,int parent,vector<int> adj[],vector<int> &value,int &k) {
+        long long sum = value[node];
+        for(auto i: adj[node]) {
+            if(parent != i) sum += find(i,node,adj,value,k);
         }
         if(sum%k == 0) {
-            cnt++;
+            ans++;
             return 0;
         }
         return sum;
     }
-    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& val, int k) {
-        vector<int> ans[n];
+    int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
+        vector<int> adj[n];
         for(auto i: edges) {
-            ans[i[0]].push_back(i[1]);
-            ans[i[1]].push_back(i[0]);
+            adj[i[0]].push_back(i[1]);
+            adj[i[1]].push_back(i[0]);
         }
-        dfs(0,-1,ans,k,val);
-        return cnt;
+        find(0,-1,adj,values,k);
+        return ans;
     }
 };
