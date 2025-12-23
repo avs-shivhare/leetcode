@@ -108,6 +108,7 @@ Happy Coding in C++! 🚀
 | [1927-maximum-ascending-subarray-sum](https://github.com/avs-shivhare/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/avs-shivhare/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/avs-shivhare/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/avs-shivhare/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avs-shivhare/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -292,6 +293,7 @@ Happy Coding in C++! 🚀
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/avs-shivhare/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/avs-shivhare/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/avs-shivhare/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/avs-shivhare/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/avs-shivhare/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -750,6 +752,7 @@ Happy Coding in C++! 🚀
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/avs-shivhare/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/avs-shivhare/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/avs-shivhare/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/avs-shivhare/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/avs-shivhare/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -874,6 +877,7 @@ Happy Coding in C++! 🚀
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/avs-shivhare/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/avs-shivhare/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/avs-shivhare/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/avs-shivhare/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avs-shivhare/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1155,6 +1159,7 @@ Happy Coding in C++! 🚀
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/avs-shivhare/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1612-avoid-flood-in-the-city](https://github.com/avs-shivhare/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/avs-shivhare/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avs-shivhare/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
