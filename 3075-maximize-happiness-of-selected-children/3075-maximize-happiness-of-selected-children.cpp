@@ -1,17 +1,13 @@
 class Solution {
 public:
-    long long maximumHappinessSum(vector<int>& happ, int k) {
-        sort(happ.begin(),happ.end(),greater<int>());
+    long long maximumHappinessSum(vector<int>& h, int k) {
         long long ans = 0;
-        int n = happ.size();
-        long long inc = 0;
-        for(int i =0; i<n; i++) {
-            if(happ[i]-inc > 0 && k) {
-                ans += happ[i]-inc;
-                inc++;
-                k--;
-            }
-            else break;
+        sort(h.begin(),h.end(),greater<int>());
+        long long cnt = 0;
+        for(auto &i: h) {
+            if(cnt >= k) break;
+            ans += 1ll*max(0ll,i-cnt);
+            cnt++;
         }
         return ans;
     }
