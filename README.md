@@ -108,6 +108,7 @@ Happy Coding in C++! 🚀
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avs-shivhare/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/avs-shivhare/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/avs-shivhare/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/avs-shivhare/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/avs-shivhare/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -725,6 +726,7 @@ Happy Coding in C++! 🚀
 | [1558-course-schedule-iv](https://github.com/avs-shivhare/leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/avs-shivhare/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/avs-shivhare/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/avs-shivhare/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -803,6 +805,7 @@ Happy Coding in C++! 🚀
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/avs-shivhare/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/avs-shivhare/leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avs-shivhare/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/avs-shivhare/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -844,6 +847,7 @@ Happy Coding in C++! 🚀
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/avs-shivhare/leetcode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/avs-shivhare/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/avs-shivhare/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/avs-shivhare/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -863,6 +867,7 @@ Happy Coding in C++! 🚀
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/avs-shivhare/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/avs-shivhare/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/avs-shivhare/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/avs-shivhare/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1183,6 +1188,7 @@ Happy Coding in C++! 🚀
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avs-shivhare/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/avs-shivhare/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/avs-shivhare/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/avs-shivhare/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
