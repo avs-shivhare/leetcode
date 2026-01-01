@@ -35,6 +35,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/avs-shivhare/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/avs-shivhare/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/avs-shivhare/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
@@ -996,6 +997,7 @@ Happy Coding in C++! 🚀
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/avs-shivhare/leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/avs-shivhare/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
