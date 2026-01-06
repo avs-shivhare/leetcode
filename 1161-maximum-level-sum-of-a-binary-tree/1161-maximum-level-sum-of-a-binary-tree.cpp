@@ -12,27 +12,27 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
+        int cnt = 0;
         queue<TreeNode*> q;
-        int level = -1;
-        int l = 0;
-        int sum = 0;
+        int ans = 0;
+        int sum2 = -1e9;
         q.push(root);
         while(!q.empty()) {
-            int temp = 0;
-            l++;
             int n = q.size();
-            for(int i =0; i<n; i++) {
-                TreeNode* t = q.front();
+            cnt++;
+            int sum = 0;
+            for(int i = 0; i<n; i++) {
+                TreeNode* temp = q.front();
                 q.pop();
-                temp += t->val;
-                if(t->left) q.push(t->left);
-                if(t->right) q.push(t->right);
+                if(temp->left) q.push(temp->left);
+                if(temp->right) q.push(temp->right);
+                sum += temp->val;
             }
-            if(level == -1 || temp > sum) {
-                level = l;
-                sum = temp;
+            if(sum2 < sum) {
+                sum2 = sum;
+                ans = cnt;
             }
         }
-        return level;
+        return ans;
     }
 };
