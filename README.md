@@ -423,6 +423,7 @@ Happy Coding in C++! 🚀
 | [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 | [3798-largest-even-number](https://github.com/avs-shivhare/leetcode/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -663,6 +664,7 @@ Happy Coding in C++! 🚀
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/avs-shivhare/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/avs-shivhare/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/avs-shivhare/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
