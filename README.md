@@ -420,6 +420,7 @@ Happy Coding in C++! 🚀
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avs-shivhare/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avs-shivhare/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
+| [3798-largest-even-number](https://github.com/avs-shivhare/leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
