@@ -269,6 +269,7 @@ Happy Coding in C++! 🚀
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/avs-shivhare/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
+| [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3827-implement-router](https://github.com/avs-shivhare/leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/avs-shivhare/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/avs-shivhare/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -421,6 +422,7 @@ Happy Coding in C++! 🚀
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avs-shivhare/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/avs-shivhare/leetcode/tree/master/3797-design-spreadsheet) |
 | [3798-largest-even-number](https://github.com/avs-shivhare/leetcode/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -953,6 +955,7 @@ Happy Coding in C++! 🚀
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/avs-shivhare/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/avs-shivhare/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
+| [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1108,6 +1111,7 @@ Happy Coding in C++! 🚀
 | [2174-next-greater-numerically-balanced-number](https://github.com/avs-shivhare/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/avs-shivhare/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/avs-shivhare/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1284,6 +1288,7 @@ Happy Coding in C++! 🚀
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/avs-shivhare/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avs-shivhare/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/avs-shivhare/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 ## Recursion
 |  |
 | ------- |
