@@ -11,22 +11,23 @@
  */
 class Solution {
 public:
-    long long sum(TreeNode* root,vector<long long> &arr) {
+    long long ans = LLONG_MIN;
+    int mod = 1e9+7;
+    long long sum = 0;
+    long long find(TreeNode* root) {
         if(root == NULL) return 0;
-        long long left = sum(root->left,arr);
-        long long right = sum(root->right,arr);
-        long long curr = left+right+root->val;
-        arr.push_back(curr);
-        return curr;
+        return find(root->left)+find(root->right)+root->val;
+    }
+    long long find2(TreeNode* root) {
+        if(root == NULL) return 0;
+        long long l = find2(root->left);
+        long long r = find2(root->right);
+        ans = max({ans,(sum-l)*l,(sum-r)*r});
+        return (l+r+root->val);
     }
     int maxProduct(TreeNode* root) {
-        vector<long long> arr;
-        long long total = sum(root,arr);
-        long long maxi = -1e9;
-        int mod = 1e9+7;
-        for(auto i: arr) {
-            maxi =max(maxi,i*(total-i));
-        }
-        return maxi%mod;
+        sum = find(root);
+        find2(root);
+        return ans%mod;
     }
 };
