@@ -193,6 +193,7 @@ Happy Coding in C++! 🚀
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/avs-shivhare/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/avs-shivhare/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/avs-shivhare/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/avs-shivhare/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/avs-shivhare/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -949,6 +950,7 @@ Happy Coding in C++! 🚀
 | [2699-count-the-number-of-fair-pairs](https://github.com/avs-shivhare/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/avs-shivhare/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/avs-shivhare/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/avs-shivhare/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/avs-shivhare/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/avs-shivhare/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/avs-shivhare/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
