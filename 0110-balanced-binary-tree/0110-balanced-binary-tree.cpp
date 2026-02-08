@@ -11,16 +11,21 @@
  */
 class Solution {
 public:
+    bool flag = true;
     int find(TreeNode* root) {
-        if(root== NULL) return 0;
-        int left = find(root->left);
-        int right = find(root->right);
-        if(left == -1|| right == -1) return -1; 
-        if(abs(left-right) >=2) return -1;
-        return 1+max(left,right);        
+        if(root == NULL) return 0;
+        int l = find(root->left);
+        int r = find(root->right);
+        int diff = abs(r-l);
+        if(diff > 1) {
+            flag = false;
+            return 1e6;
+        }
+        return max(l,r)+1;
     }
     bool isBalanced(TreeNode* root) {
-        if(find(root ) == -1) return false;
-        return true;
+        flag = true;
+        find(root);
+        return flag;
     }
 };
