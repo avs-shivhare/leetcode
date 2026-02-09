@@ -11,26 +11,24 @@
  */
 class Solution {
 public:
-    void store(TreeNode* root,vector<int> &arr) {
+    vector<int> arr;
+    void preOrder(TreeNode* root) {
         if(root == NULL) return;
-        store(root->left,arr);
+        preOrder(root->left);
         arr.push_back(root->val);
-        store(root->right,arr);
+        preOrder(root->right);
     }
-    TreeNode* build(vector<int> &arr,int left,int right) {
-        if(left > right) return NULL;
-        if(left == right) {
-            return new TreeNode(arr[left]);
-        }
-        int mid = (left+right)>>1;
+    TreeNode* build(int l,int r) {
+        if(l > r) return NULL;
+        if(l == r) return new TreeNode(arr[l]);
+        int mid = (l+r)>>1;
         TreeNode* root = new TreeNode(arr[mid]);
-        root->left = build(arr,left,mid-1);
-        root->right = build(arr,mid+1,right);
+        root->left = build(l,mid-1);
+        root->right = build(mid+1,r);
         return root;
     }
     TreeNode* balanceBST(TreeNode* root) {
-        vector<int> arr;
-        store(root,arr);
-        return build(arr,0,arr.size()-1);
+        preOrder(root);
+        return build(0,arr.size()-1);
     }
 };
