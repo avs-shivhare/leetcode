@@ -614,6 +614,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/avs-shivhare/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/avs-shivhare/leetcode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/avs-shivhare/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1241,6 +1242,7 @@ Happy Coding in C++! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/avs-shivhare/leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/avs-shivhare/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/avs-shivhare/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
