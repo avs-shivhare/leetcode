@@ -1,26 +1,25 @@
 class Solution {
 public:
     int numSteps(string s) {
-        int step = 0;
-        while(s != "1") {
-            if(s.back() == '1') {
-                int i = s.size()-1;
-                while(i>=0 && s[i] == '1') {
-                    s[i] = '0';
-                    i--;
+        reverse(s.begin(),s.end());
+        int ans = 0;
+        int i = 0;
+        while(i<s.size()-1) {
+            if(s[i] == '1') {
+                int c = 1;
+                for(int j = i; j<s.size(); j++) {
+                    int sum = c+(s[j]-'0');
+                    s[j] = sum%2+'0';
+                    c = sum/2;
+                    if(c == 0) break;
                 }
-                if(i>= 0) {
-                    s[i] = '1';
-                }
-                else {
-                    s.insert(s.begin(),'1');
-                }
+                if(c) s.push_back('1');
             }
             else {
-                s.pop_back();
+                i++;
             }
-            step++;
+            ans++;
         }
-        return step;
+        return ans;
     }
 };
