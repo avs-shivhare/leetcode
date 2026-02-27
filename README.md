@@ -460,6 +460,7 @@ Happy Coding in C++! 🚀
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avs-shivhare/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/avs-shivhare/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/avs-shivhare/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avs-shivhare/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3709-find-special-substring-of-length-k](https://github.com/avs-shivhare/leetcode/tree/master/3709-find-special-substring-of-length-k) |
 | [3713-longest-balanced-substring-i](https://github.com/avs-shivhare/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -830,6 +831,7 @@ Happy Coding in C++! 🚀
 | [2793-count-the-number-of-complete-components](https://github.com/avs-shivhare/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/avs-shivhare/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/avs-shivhare/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -1118,6 +1120,7 @@ Happy Coding in C++! 🚀
 | [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/avs-shivhare/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/avs-shivhare/leetcode/tree/master/3827-implement-router) |
@@ -1203,6 +1206,7 @@ Happy Coding in C++! 🚀
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avs-shivhare/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/avs-shivhare/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/avs-shivhare/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/avs-shivhare/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/avs-shivhare/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/avs-shivhare/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1520,4 +1524,8 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/avs-shivhare/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
