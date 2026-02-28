@@ -5,7 +5,7 @@ public:
         long long ans = 0;
         for(long long i = 1; i<=n; i++) {
             bool flag = false;
-            for(int j = 30; j>=0; j--) {
+            for(int j = 17; j>=0; j--) {
                 if(i&(1<<j)) {
                     //cout<<j<<endl;
                     flag = true;
