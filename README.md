@@ -407,6 +407,7 @@ Happy Coding in C++! 🚀
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avs-shivhare/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/avs-shivhare/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avs-shivhare/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/avs-shivhare/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avs-shivhare/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1077,6 +1078,7 @@ Happy Coding in C++! 🚀
 | [0067-add-binary](https://github.com/avs-shivhare/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/avs-shivhare/leetcode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avs-shivhare/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/avs-shivhare/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avs-shivhare/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1450,6 +1452,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0326-power-of-three](https://github.com/avs-shivhare/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/avs-shivhare/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/avs-shivhare/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/avs-shivhare/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
