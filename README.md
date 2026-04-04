@@ -448,6 +448,7 @@ Happy Coding in C++! 🚀
 | [1980-find-unique-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/avs-shivhare/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avs-shivhare/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/avs-shivhare/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1154,6 +1155,7 @@ Happy Coding in C++! 🚀
 | [1642-water-bottles](https://github.com/avs-shivhare/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avs-shivhare/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/avs-shivhare/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avs-shivhare/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/avs-shivhare/leetcode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/avs-shivhare/leetcode/tree/master/2211-count-collisions-on-a-road) |
