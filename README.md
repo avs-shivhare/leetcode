@@ -1157,6 +1157,7 @@ Happy Coding in C++! 🚀
 | [1642-water-bottles](https://github.com/avs-shivhare/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/avs-shivhare/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/avs-shivhare/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/avs-shivhare/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avs-shivhare/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/avs-shivhare/leetcode/tree/master/2169-simple-bank-system) |
@@ -1193,6 +1194,7 @@ Happy Coding in C++! 🚀
 | [1477-product-of-the-last-k-numbers](https://github.com/avs-shivhare/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/avs-shivhare/leetcode/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/avs-shivhare/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/avs-shivhare/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/avs-shivhare/leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/avs-shivhare/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/avs-shivhare/leetcode/tree/master/2434-design-a-number-container-system) |
