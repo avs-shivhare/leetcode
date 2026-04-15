@@ -183,6 +183,7 @@ Happy Coding in C++! 🚀
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/avs-shivhare/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/avs-shivhare/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/avs-shivhare/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/avs-shivhare/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avs-shivhare/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/avs-shivhare/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/avs-shivhare/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -477,6 +478,7 @@ Happy Coding in C++! 🚀
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/avs-shivhare/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/avs-shivhare/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avs-shivhare/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/avs-shivhare/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avs-shivhare/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avs-shivhare/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/avs-shivhare/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
