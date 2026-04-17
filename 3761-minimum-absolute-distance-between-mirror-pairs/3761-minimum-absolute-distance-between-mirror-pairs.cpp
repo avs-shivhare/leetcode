@@ -1,23 +1,23 @@
 class Solution {
 public:
-    long long find(long long n) {
-        long long rev = 0;
+    long long reverse(long n) {
+        long long ans = 0;
         while(n) {
-            rev = rev*10+n%10;
-            n /= 10;
+            ans = ans*10ll+(n%10);
+            n /= 10ll;
         }
-        return rev;
+        return ans;
     }
     int minMirrorPairDistance(vector<int>& nums) {
-        int ans = 1e9;
-        unordered_map<long long,int> mpp;
+        unordered_map<long long,long long> mpp;
         int n = nums.size();
+        long long ans = 1e9;
         for(int i = 0; i<n; i++) {
-            long long rev = find(nums[i]);
             if(mpp.find(nums[i]) != mpp.end()) {
                 ans = min(ans,i-mpp[nums[i]]);
             }
-            mpp[rev] = i;
+            long long rev = reverse(nums[i]);
+            mpp[rev] = max(i*1ll,mpp[rev]);
         }
         if(ans >= 1e9) return -1;
         return ans;
