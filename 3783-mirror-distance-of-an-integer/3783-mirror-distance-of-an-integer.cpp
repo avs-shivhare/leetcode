@@ -1,15 +1,14 @@
 class Solution {
 public:
-    long long find(long long n) {
+    long long reverse(long long n) {
         long long rev = 0;
         while(n) {
-            rev = rev*10+n%10;
-            n /=10;
+            rev = rev*10+(n%10ll);
+            n /= 10ll;
         }
         return rev;
-    } 
+    }
     int mirrorDistance(int n) {
-        long long rev = find(n);
-        return llabs(rev-1ll*n);
+        return abs(1ll*n-reverse(n));
     }
 };
