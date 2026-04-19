@@ -119,6 +119,7 @@ Happy Coding in C++! 🚀
 | [1834-minimum-number-of-people-to-teach](https://github.com/avs-shivhare/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/avs-shivhare/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/avs-shivhare/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1407,6 +1408,7 @@ Happy Coding in C++! 🚀
 | [0768-partition-labels](https://github.com/avs-shivhare/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/avs-shivhare/leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avs-shivhare/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1474,6 +1476,7 @@ Happy Coding in C++! 🚀
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avs-shivhare/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/avs-shivhare/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/avs-shivhare/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
