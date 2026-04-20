@@ -135,6 +135,7 @@ Happy Coding in C++! 🚀
 | [1993-sum-of-all-subset-xor-totals](https://github.com/avs-shivhare/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/avs-shivhare/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/avs-shivhare/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/avs-shivhare/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/avs-shivhare/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avs-shivhare/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -781,6 +782,7 @@ Happy Coding in C++! 🚀
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/avs-shivhare/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/avs-shivhare/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/avs-shivhare/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/avs-shivhare/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/avs-shivhare/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/avs-shivhare/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
