@@ -111,6 +111,7 @@ Happy Coding in C++! 🚀
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/avs-shivhare/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/avs-shivhare/leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/avs-shivhare/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/avs-shivhare/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avs-shivhare/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -1056,6 +1057,7 @@ Happy Coding in C++! 🚀
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/avs-shivhare/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/avs-shivhare/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/avs-shivhare/leetcode/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/avs-shivhare/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/avs-shivhare/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/avs-shivhare/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/avs-shivhare/leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -1663,6 +1665,7 @@ Happy Coding in C++! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/avs-shivhare/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avs-shivhare/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
