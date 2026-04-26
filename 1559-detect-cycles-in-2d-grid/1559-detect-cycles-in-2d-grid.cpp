@@ -1,37 +1,30 @@
 class Solution {
 public:
-    int rowdiff[4] = {-1,0,0,1};
-    int coldiff[4] = {0,-1,1,0};
-
-    bool dfs(int row,int col,int prrow,int prcol,vector<vector<char>> &grid,vector<vector<bool>> &vis,vector<vector<bool>> &pathvis,int &n,int &m) {
-        vis[row][col] = true;
-        pathvis[row][col] = true;
-        //cout<<row<<" "<<col<<endl;
-        for(int i =0;i<4; i++) {
-            int newRow = row+rowdiff[i];
-            int newCol = col+coldiff[i];
-            if(newRow >= 0 && newRow < n && newCol >= 0 && newCol < m ) {
-                if(grid[row][col] == grid[newRow][newCol]) {
-                    if(!vis[newRow][newCol]) {
-                        if(dfs(newRow,newCol,row,col,grid,vis,pathvis,n,m)) return true;
-                    }
-                    else if(prrow == newRow && prcol == newCol) continue;
-                    else if(pathvis[newRow][newCol]) return true;
+    int rowdiff[4] = {0,0,1,-1};
+    int coldiff[4] = {1,-1,0,0};
+    bool dfs(int r,int c,vector<vector<char>> &grid,vector<vector<int>> &vis,vector<vector<int>> &path,int &n,int &m,int cnt) {
+        vis[r][c] = 1;
+        path[r][c] = cnt;
+        for(int i = 0; i<4; i++) {
+            int nr = r+rowdiff[i];
+            int nc = c+coldiff[i];
+            if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == grid[r][c]) {
+                if(vis[nr][nc] && path[nr][nc] && cnt-path[nr][nc]+1 >= 4) return true;
+                else if(!vis[nr][nc] && dfs(nr,nc,grid,vis,path,n,m,cnt+1)) {
+                    return true;
                 }
             }
         }
-        pathvis[row][col] = false;
+        path[r][c] = 0;
         return false;
     }
     bool containsCycle(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<bool>> vis(n,vector<bool>(m,false)),pathvis(n,vector<bool>(m,false));
-        for(int i =0; i<n; i++) {
-            for(int j =0; j<m; j++) {
-                if(!vis[i][j]) {
-                    if(dfs(i,j,-1,-1,grid,vis,pathvis,n,m)) return true;
-                }
+        vector<vector<int>> vis(n,vector<int>(m,0)), path(n,vector<int>(m,0));
+        for(int i = 0; i<n; i++) {
+            for(int j = 0; j<m; j++) {
+                if(!vis[i][j] && dfs(i,j,grid,vis,path,n,m,1)) return true; 
             }
         }
         return false;
