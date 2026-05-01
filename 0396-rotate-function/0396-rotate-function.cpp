@@ -1,27 +1,21 @@
 class Solution {
 public:
     int maxRotateFunction(vector<int>& nums) {
-        int sum = 0;
-        int allSum = 0;
-        int ans = 0;
+        long long ans = 0;
+        long long sum = 0;
         int n = nums.size();
-        deque<int> q;
-        for(int i =0; i<n; i++) {
-            sum += (nums[i]*i);
-            allSum += nums[i];
-            q.push_back(nums[i]);
+        for(int i = 0; i<n; i++) {
+            ans += 1ll*i*nums[i];
+            if(i>0) sum += nums[i];
         }
-        ans = sum;
-        int i =0;
-        while(i<n) {
-            sum = sum-(q.back()*(n-1));
-            int next = allSum-q.back();
-            sum += next;
-            int val = q.back();
-            q.pop_back();
-            q.push_front(val);
-            ans = max(ans,sum);
-            i++;
+        long long prev = ans;
+        for(int i = 1; i<n; i++) {
+            long long temp = prev-sum;
+            temp += 1ll*(n-1)*nums[i-1];
+            sum -= nums[i];
+            sum += nums[i-1];
+            ans = max(ans,temp);
+            prev = temp;
         }
         return ans;
     }
