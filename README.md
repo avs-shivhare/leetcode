@@ -43,6 +43,7 @@ Happy Coding in C++! 🚀
 | [0120-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/avs-shivhare/leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/avs-shivhare/leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/avs-shivhare/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -349,6 +350,7 @@ Happy Coding in C++! 🚀
 | [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/avs-shivhare/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/avs-shivhare/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -1276,6 +1278,7 @@ Happy Coding in C++! 🚀
 | [0326-power-of-three](https://github.com/avs-shivhare/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avs-shivhare/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/avs-shivhare/leetcode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/avs-shivhare/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
