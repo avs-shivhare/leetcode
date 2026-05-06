@@ -125,6 +125,7 @@ Happy Coding in C++! 🚀
 | [1848-minimum-distance-to-the-target-element](https://github.com/avs-shivhare/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/avs-shivhare/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/avs-shivhare/leetcode/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1020,6 +1021,7 @@ Happy Coding in C++! 🚀
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avs-shivhare/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/avs-shivhare/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avs-shivhare/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/avs-shivhare/leetcode/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/avs-shivhare/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avs-shivhare/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1454,6 +1456,7 @@ Happy Coding in C++! 🚀
 | [0868-push-dominoes](https://github.com/avs-shivhare/leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avs-shivhare/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/avs-shivhare/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avs-shivhare/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
