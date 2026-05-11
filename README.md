@@ -199,6 +199,7 @@ Happy Coding in C++! 🚀
 | [2529-range-product-queries-of-powers](https://github.com/avs-shivhare/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/avs-shivhare/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/avs-shivhare/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avs-shivhare/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1242,6 +1243,7 @@ Happy Coding in C++! 🚀
 | [2408-number-of-people-aware-of-a-secret](https://github.com/avs-shivhare/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/avs-shivhare/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/avs-shivhare/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avs-shivhare/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
