@@ -204,6 +204,7 @@ Happy Coding in C++! 🚀
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avs-shivhare/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/avs-shivhare/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/avs-shivhare/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/avs-shivhare/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -668,6 +669,7 @@ Happy Coding in C++! 🚀
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avs-shivhare/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/avs-shivhare/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/avs-shivhare/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/avs-shivhare/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/avs-shivhare/leetcode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/avs-shivhare/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/avs-shivhare/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1492,6 +1494,7 @@ Happy Coding in C++! 🚀
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/avs-shivhare/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/avs-shivhare/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/avs-shivhare/leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/avs-shivhare/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/avs-shivhare/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1568,6 +1571,7 @@ Happy Coding in C++! 🚀
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/avs-shivhare/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/avs-shivhare/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/avs-shivhare/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/avs-shivhare/leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avs-shivhare/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/avs-shivhare/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/avs-shivhare/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
