@@ -1,4 +1,4 @@
-class Trie{
+class Trie {
     public:
     vector<Trie*> next;
     Trie() {
@@ -8,34 +8,37 @@ class Trie{
 class Solution {
 public:
     Trie* root = new Trie();
-    void add(string &word) {
+    void create(string &s) {
         Trie* temp = root;
-        for(auto i: word) {
+        for(auto &i: s) {
             if(temp->next[i-'0'] == NULL) {
                 temp->next[i-'0'] = new Trie();
             }
             temp = temp->next[i-'0'];
         }
+        return;
     }
-    int search(string &word) {
-        int cnt =0;
+    int find(string &s) {
         Trie* temp = root;
-        for(auto i: word) {
-            if(temp->next[i-'0'] == NULL) return cnt;
+        int cnt = 0;
+        for(auto &i: s) {
+            if(temp->next[i-'0'] == NULL) {
+                return cnt;
+            }
             temp = temp->next[i-'0'];
             cnt++;
         }
         return cnt;
     }
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        for(auto i: arr1) {
-            string temp = to_string(i);
-            add(temp);
+        for(auto &i: arr1) {
+            string s = to_string(i);
+            create(s);
         }
         int ans = 0;
-        for(auto i: arr2) {
-            string temp = to_string(i);
-            ans = max(ans,search(temp));
+        for(auto &i: arr2) {
+            string s = to_string(i);
+            ans = max(ans,find(s));
         }
         return ans;
     }
