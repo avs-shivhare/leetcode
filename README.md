@@ -34,6 +34,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avs-shivhare/leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/avs-shivhare/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/avs-shivhare/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/avs-shivhare/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/avs-shivhare/leetcode/tree/master/0066-plus-one) |
@@ -1557,6 +1558,7 @@ Happy Coding in C++! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/avs-shivhare/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avs-shivhare/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/avs-shivhare/leetcode/tree/master/0611-valid-triangle-number) |
