@@ -125,6 +125,7 @@ Happy Coding in C++! 🚀
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/avs-shivhare/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avs-shivhare/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/avs-shivhare/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/avs-shivhare/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-furthest-building-you-can-reach](https://github.com/avs-shivhare/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1813-maximum-erasure-value](https://github.com/avs-shivhare/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/avs-shivhare/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
