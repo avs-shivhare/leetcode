@@ -11,30 +11,37 @@
  */
 class Solution {
 public:
-    int find(unordered_set<int> &node,unordered_map<int,pair<int,int>> &mpp) {
-        for(auto i: mpp) {
-            if(node.count(i.first) == 0) return i.first;
-        }
-        return -1;
-    }
-
-    TreeNode* create(int root,unordered_map<int,pair<int,int>> &mpp) {
-        if(root == 0) return NULL;
-        TreeNode* temp = new TreeNode(root);
-        if(mpp[root].first != 0) temp->left = create(mpp[root].first,mpp);
-        if(mpp[root].second != 0) temp->right = create(mpp[root].second,mpp);
-        return temp;
-    }
-
     TreeNode* createBinaryTree(vector<vector<int>>& des) {
-        unordered_map<int,pair<int,int>> mpp;
-        unordered_set<int> node;
-        for(auto i: des) {
-            node.insert(i[1]);
-            if(i[2]) mpp[i[0]].first = i[1];
-            else mpp[i[0]].second = i[1];
+        unordered_map<int,TreeNode*> mpp;
+        unordered_set<int> st;
+        for(auto &i: des) {
+            int p = i[0];
+            int c = i[1];
+            TreeNode* node = NULL;
+            if(mpp.find(p) != mpp.end()) node = mpp[p];
+            else {
+                node = new TreeNode(p);
+            }
+            mpp[p] = node;
+            if(i[2]) {
+                if(mpp.find(c) != mpp.end()) node->left = mpp[c];
+                else node->left = new TreeNode(c);
+                mpp[c] = node->left;
+                //cout<<node->val<<" left "<<node->left->val<<endl;
+            }
+            else {
+                if(mpp.find(c) != mpp.end()) node->right = mpp[c];
+                else node->right = new TreeNode(c);
+                mpp[c] = node->right;
+                //cout<<node->val<<" right "<<mpp[c]->right->val<<endl;
+            }
+            st.insert(c);
+            st.insert(p);
         }
-        int root = find(node,mpp);
-        return create(root,mpp);
+        //for(auto i: mpp) cout<<i.first<<" "<<i.second<<endl;
+        for(auto &i: des) {
+            st.erase(i[1]);
+        }
+        return mpp[*st.begin()];
     }
 };
