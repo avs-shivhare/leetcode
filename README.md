@@ -352,6 +352,7 @@ Happy Coding in C++! 🚀
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/avs-shivhare/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/avs-shivhare/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avs-shivhare/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/avs-shivhare/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/avs-shivhare/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/avs-shivhare/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -901,6 +902,7 @@ Happy Coding in C++! 🚀
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/avs-shivhare/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/avs-shivhare/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avs-shivhare/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/avs-shivhare/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/avs-shivhare/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
@@ -1059,6 +1061,7 @@ Happy Coding in C++! 🚀
 | [3647-zero-array-transformation-iii](https://github.com/avs-shivhare/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/avs-shivhare/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/avs-shivhare/leetcode/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -1735,6 +1738,7 @@ Happy Coding in C++! 🚀
 | [2280-count-good-triplets-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/avs-shivhare/leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/avs-shivhare/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/avs-shivhare/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
