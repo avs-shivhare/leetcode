@@ -374,6 +374,7 @@ Happy Coding in C++! 🚀
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3827-implement-router](https://github.com/avs-shivhare/leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/avs-shivhare/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/avs-shivhare/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
@@ -587,6 +588,7 @@ Happy Coding in C++! 🚀
 | [3798-largest-even-number](https://github.com/avs-shivhare/leetcode/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -1333,6 +1335,7 @@ Happy Coding in C++! 🚀
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avs-shivhare/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/avs-shivhare/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
