@@ -1,15 +1,14 @@
 class Solution {
 public:
-    string mapWordWeights(vector<string>& s, vector<int>& w) {
+    string mapWordWeights(vector<string>& words, vector<int>& weights) {
         string ans = "";
-        for(auto &i: s) {
+        for(auto &i: words) {
             int sum = 0;
             for(auto &j: i) {
-                sum += w[j-'a'];
+                sum += weights[j-'a'];
                 sum %= 26;
             }
-            int rev = 25-sum;
-            ans += rev+'a';
+            ans += (25-sum)+'a';
         }
         return ans;
     }
