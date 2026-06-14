@@ -956,6 +956,7 @@ Happy Coding in C++! 🚀
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/avs-shivhare/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avs-shivhare/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/avs-shivhare/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avs-shivhare/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/avs-shivhare/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/avs-shivhare/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/avs-shivhare/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1556,6 +1557,7 @@ Happy Coding in C++! 🚀
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avs-shivhare/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/avs-shivhare/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/avs-shivhare/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avs-shivhare/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/avs-shivhare/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avs-shivhare/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/avs-shivhare/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1776,6 +1778,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0061-rotate-list](https://github.com/avs-shivhare/leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avs-shivhare/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avs-shivhare/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/avs-shivhare/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
