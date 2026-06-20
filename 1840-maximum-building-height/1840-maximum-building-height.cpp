@@ -21,15 +21,8 @@ public:
         for(int i = 1; i<m; i++) {
             long long diff = 1ll*res[i][0]-res[i-1][0];
             long long diffh = abs(1ll*res[i-1][1]-res[i][1]);
-            if(diff < diffh) {
-                //cout<<" first "<<endl;
-                res[i][1] = res[i-1][1]+diff;
-                ans = max(1ll*res[i][1],ans);
-            }
-            else {
-                diff -= diffh;
-                ans = max(ans,max(res[i][1],res[i-1][1])+(diff>>1));
-            }
+            diff -= diffh;
+            ans = max(ans,max(res[i][1],res[i-1][1])+(diff>>1));
             //cout<<ans<<endl;
         }
         // long long diff = 1ll*n-res.back()[0];
