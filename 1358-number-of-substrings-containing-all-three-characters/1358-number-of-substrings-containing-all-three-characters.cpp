@@ -1,14 +1,20 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int ans = 0;
         int n = s.size();
-        vector<int> hash(3,-1);
-        for(int i =0; i<n; i++) {
-            hash[s[i]-'a'] = i;
-            if(hash[0] != -1 && hash[1] != -1 && hash[2] !=-1) {
-                ans += 1+min(hash[0],min(hash[1],hash[2]));
+        int l = 0,r = 0;
+        unordered_map<int,int> mpp;
+        int cnt = 0,ans = 0;
+        while(r<n) {
+            if(mpp[s[r]] == 0) cnt++;
+            mpp[s[r]]++;
+            while(l<=r && cnt >= 3) {
+                ans += n-r;
+                mpp[s[l]]--;
+                if(mpp[s[l]] == 0) cnt--;
+                l++;
             }
+            r++;
         }
         return ans;
     }
