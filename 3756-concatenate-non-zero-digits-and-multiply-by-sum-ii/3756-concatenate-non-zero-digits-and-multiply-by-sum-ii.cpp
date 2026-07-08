@@ -1,33 +1,26 @@
 class Solution {
 public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        int mod = 1e9+7;
         int n = s.size();
-        vector<long long> digit(n+1,0),value(n+1,0),count(n+1,0),pow10(n+1,0);
-        pow10[0] = 1;
+        vector<long long> pow(n+1,1), prefix(n+1,0),product(n+1,0),cnt(n+1,0);
+        int mod = 1e9+7;
         for(int i = 1; i<=n; i++) {
-            pow10[i] = (pow10[i-1]*10ll)%mod;
+            pow[i] = (pow[i-1]*10)%mod;
         }
-        for(int i = 0; i<n; i++) {
-            int d = s[i]-'0';
-            digit[i+1] = digit[i];
-            value[i+1] = value[i];
-            count[i+1] = count[i];
-            if(d) {
-                digit[i+1] += d;
-                value[i+1] = (value[i]*10+d)%mod;
-                count[i+1]++;
-            }
+        for(int i = 1; i<=n; i++) {
+            prefix[i] = prefix[i-1]+(s[i-1]-'0');
+            cnt[i] = cnt[i-1]+(s[i-1] != '0');
+            if(s[i-1] == '0') product[i] = product[i-1];
+            else product[i] = (product[i-1]*10+(s[i-1]-'0'))%mod;
         }
         vector<int> ans;
-        for(auto i: queries) {
-            int cnt = count[i[1]+1]-count[i[0]];
-            long long sum = digit[i[1]+1]-digit[i[0]];
-            long long x = 0;
-            if(cnt) {
-                x = (value[i[1]+1]-(value[i[0]]*pow10[cnt])%mod+mod)%mod;
-            }
-            ans.push_back((x*sum)%mod);
+        for(auto &i: queries) {
+            int l = i[0], r = i[1];
+            int len = cnt[r+1]-cnt[l];
+            long long start = product[l],end = product[r+1];
+            long long sum = prefix[r+1]-prefix[l];
+            long long temp = (end-((start*pow[len])%mod)+mod)%mod;
+            ans.push_back((temp*sum)%mod);
         }
         return ans;
     }
