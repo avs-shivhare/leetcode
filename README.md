@@ -1533,6 +1533,7 @@ Happy Coding in C++! 🚀
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/avs-shivhare/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/avs-shivhare/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/avs-shivhare/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/avs-shivhare/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avs-shivhare/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/avs-shivhare/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/avs-shivhare/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1663,6 +1664,7 @@ Happy Coding in C++! 🚀
 | [3001-apply-operations-to-maximize-score](https://github.com/avs-shivhare/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avs-shivhare/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/avs-shivhare/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/avs-shivhare/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avs-shivhare/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
