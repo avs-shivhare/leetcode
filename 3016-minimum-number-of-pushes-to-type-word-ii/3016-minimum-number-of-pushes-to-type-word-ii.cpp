@@ -1,20 +1,14 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char,int> mpp;
-        for(auto i: word) {
-            mpp[i]++;
+        vector<int> fre(26,0);
+        for(auto &i: word) {
+            fre[i-'a']++;
         }
-        priority_queue<pair<int,char>> q;
+        sort(fre.begin(),fre.end(),greater<int>());
         int ans = 0;
-        for(auto i: mpp) {
-            q.push({i.second,i.first});
-        }
-        int i =0;
-        while(!q.empty()) {
-            ans +=(q.top().first*((i/8)+1));
-            q.pop();
-            i++;
+        for(int i = 0; i<26; i++) {
+            ans += fre[i]*((i+8)/8);
         }
         return ans;
     }
