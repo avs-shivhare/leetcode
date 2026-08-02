@@ -1,30 +1,21 @@
 class Solution {
 public:
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
-        int left = 0; int right = n-1;
-        int alice  = 0, bob = 0;
-        bool f = true;
-        while(left <= right) {
-            if(f) {
-                if(piles[left] > piles[right]) {
-                    alice += piles[left++];
-                }
-                else {
-                    alice += piles[right--];
-                }
-            } 
-            else {
-                if(piles[left] < piles[right]) {
-                    bob += piles[left++];
-                }
-                else {
-                    bob += piles[right--];
-                }
+        int l = 0, r = piles.size()-1;
+        int sum = 0,sum2 = 0;
+        bool flag = true;
+        while(l<=r) {
+            if(flag) {
+                if(piles[l] < piles[r]) sum += piles[r--];
+                else sum += piles[l++];
             }
-            f = !f;
+            else {
+                if(piles[l] < piles[r]) sum2 += piles[r--];
+                else sum2 += piles[l++];
+            }
+            if(sum > sum2) return true;
+            flag = !flag;
         }
-        //cout<<alice<<" "<<bob<<endl;
-        return alice > bob;
+        return false;
     }
 };
