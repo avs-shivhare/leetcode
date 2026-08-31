@@ -11,45 +11,41 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        ListNode* start = NULL;
-        ListNode* end = NULL;
-        ListNode* prev = NULL;
-        ListNode* forward = head->next->next;
-        ListNode* current = head->next;
-        ListNode* backward = head;
-        int mini = 1e9;
-        int startCnt = 0;
-        int currCnt = 0;
-        int prevcnt = 0;
-        while(forward) {
-            if(current->val > forward->val && current->val > backward->val) {
-                if(prev) {
-                    mini = min(mini,currCnt-prevcnt);
+        int len = 1;
+        int first = -1,last = -1;
+        int mini = 1e9,maxi = -1;
+        ListNode* fast = head->next->next;
+        ListNode* slow = head->next;
+        ListNode* prev = head;
+        while(fast) {
+            if(prev->val < slow->val && slow->val > fast->val) {
+                if(first == -1) {
+                    first = len;
                 }
-                if(start == NULL) {
-                    start = current;
-                    startCnt = currCnt;
+                else {
+                    mini = min(mini,len-last);
+                    maxi = max(maxi,len-first);
                 }
-                prev = current;
-                prevcnt = currCnt;
+                last = len;
             }
-            if(current->val < forward->val && current->val < backward->val) {
-                if(prev) {
-                    mini = min(mini,currCnt-prevcnt);
+            else if(prev->val > slow->val && slow->val < fast->val) {
+                if(first == -1) {
+                    first = len;
                 }
-                if(start == NULL) {
-                    start = current;
-                    startCnt = currCnt;
+                else {
+                    mini = min(mini,len-last);
+                    maxi = max(maxi,len-first);
                 }
-                prev = current;
-                prevcnt = currCnt;
+                last = len;
             }
-            forward = forward->next;
-            current = current->next;
-            backward = backward->next;
-            currCnt++;
+            fast = fast->next;
+            slow = slow->next;
+            prev = prev->next;
+            len++;
         }
-        if(mini == 1e9) return {-1,-1};
-        return {mini,prevcnt-startCnt};
+        vector<int> ans(2,-1);
+        if(maxi > 0) ans[1] = maxi;
+        if(mini < 1e9) ans[0] = mini;
+        return ans;
     }
 };
