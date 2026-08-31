@@ -2024,6 +2024,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0061-rotate-list](https://github.com/avs-shivhare/leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/avs-shivhare/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avs-shivhare/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/avs-shivhare/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/avs-shivhare/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/avs-shivhare/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
