@@ -431,6 +431,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/avs-shivhare/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/avs-shivhare/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -534,6 +535,7 @@ Happy Coding in C++! 🚀
 | ------- |
 | [0038-count-and-say](https://github.com/avs-shivhare/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/avs-shivhare/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/avs-shivhare/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0474-ones-and-zeroes) |
