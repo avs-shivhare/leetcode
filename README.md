@@ -65,6 +65,7 @@ Happy Coding in C++! 🚀
 | [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/avs-shivhare/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/avs-shivhare/leetcode/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/avs-shivhare/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/avs-shivhare/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [0877-stone-game](https://github.com/avs-shivhare/leetcode/tree/master/0877-stone-game) |
@@ -1240,6 +1241,7 @@ Happy Coding in C++! 🚀
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/avs-shivhare/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/avs-shivhare/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/avs-shivhare/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/avs-shivhare/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/avs-shivhare/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/avs-shivhare/leetcode/tree/master/0945-snakes-and-ladders) |
