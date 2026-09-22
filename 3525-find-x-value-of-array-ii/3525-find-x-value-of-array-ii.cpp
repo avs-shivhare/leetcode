@@ -49,8 +49,8 @@ class SG {
             return;
         }
         int mid = (l+r)>>1;
-        if(index <= mid) update(l,mid,2*ind+1,index,val);
-        else update(mid+1,r,2*ind+2,index,val);
+        update(l,mid,2*ind+1,index,val);
+        update(mid+1,r,2*ind+2,index,val);
         sg[ind] = compare(sg[2*ind+1],sg[2*ind+2]);
     }
     Node query(int l,int r,int ql,int qr,int ind) {
