@@ -356,6 +356,7 @@ Happy Coding in C++! 🚀
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avs-shivhare/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/avs-shivhare/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avs-shivhare/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avs-shivhare/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/avs-shivhare/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avs-shivhare/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avs-shivhare/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1692,6 +1693,7 @@ Happy Coding in C++! 🚀
 | [3525-find-x-value-of-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/avs-shivhare/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/avs-shivhare/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/avs-shivhare/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/avs-shivhare/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/avs-shivhare/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/avs-shivhare/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
