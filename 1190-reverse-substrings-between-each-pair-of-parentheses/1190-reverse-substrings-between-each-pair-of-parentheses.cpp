@@ -2,25 +2,24 @@ class Solution {
 public:
     string reverseParentheses(string s) {
         stack<char> st;
-        for(char i: s) {
+        for(auto &i: s) {
             if(i == ')') {
-                string temp = "";
+                string rev = "";
                 while(!st.empty() && st.top() != '(') {
-                    temp += st.top();
+                    rev += st.top();
                     st.pop();
                 }
-                if(!st.empty()) st.pop();
-                for(char x: temp) st.push(x);
+                st.pop();
+                for(auto &j: rev) st.push(j);
             }
-            else {
-                st.push(i);
-            }
+            else st.push(i);
         }
         string ans = "";
         while(!st.empty()) {
-            ans = st.top()+ans;
+            ans += st.top();
             st.pop();
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
