@@ -550,6 +550,7 @@ Happy Coding in C++! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/avs-shivhare/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/avs-shivhare/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
@@ -1129,6 +1130,7 @@ Happy Coding in C++! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/avs-shivhare/leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avs-shivhare/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/avs-shivhare/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -2225,6 +2227,7 @@ Happy Coding in C++! 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avs-shivhare/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
