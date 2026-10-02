@@ -440,6 +440,7 @@ Happy Coding in C++! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/avs-shivhare/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/avs-shivhare/leetcode/tree/master/0118-pascals-triangle) |
@@ -551,6 +552,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/avs-shivhare/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/avs-shivhare/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
@@ -1754,6 +1756,7 @@ Happy Coding in C++! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/avs-shivhare/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/avs-shivhare/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -2228,6 +2231,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avs-shivhare/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
