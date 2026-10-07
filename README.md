@@ -561,6 +561,7 @@ Happy Coding in C++! 🚀
 | [0115-distinct-subsequences](https://github.com/avs-shivhare/leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/avs-shivhare/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/avs-shivhare/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/avs-shivhare/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/avs-shivhare/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/avs-shivhare/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1178,6 +1179,7 @@ Happy Coding in C++! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/avs-shivhare/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/avs-shivhare/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/avs-shivhare/leetcode/tree/master/0684-redundant-connection) |
@@ -1769,6 +1771,7 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/avs-shivhare/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/avs-shivhare/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/avs-shivhare/leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/avs-shivhare/leetcode/tree/master/0756-pyramid-transition-matrix) |
