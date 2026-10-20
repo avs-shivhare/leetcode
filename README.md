@@ -444,6 +444,7 @@ Happy Coding in C++! 🚀
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avs-shivhare/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/avs-shivhare/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/avs-shivhare/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/avs-shivhare/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -1565,6 +1566,7 @@ Happy Coding in C++! 🚀
 | [3779-eat-pizzas](https://github.com/avs-shivhare/leetcode/tree/master/3779-eat-pizzas) |
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avs-shivhare/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/avs-shivhare/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -1794,6 +1796,7 @@ Happy Coding in C++! 🚀
 | [3871-count-commas-in-range-ii](https://github.com/avs-shivhare/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/avs-shivhare/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/avs-shivhare/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/avs-shivhare/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -2110,6 +2113,7 @@ Happy Coding in C++! 🚀
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/avs-shivhare/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/avs-shivhare/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/avs-shivhare/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
