@@ -2,36 +2,24 @@ class Solution {
 public:
     int minOperations(string s) {
         int n = s.size();
-        bool flag = true;
-        for(int i = 1; i<n; i++) {
-            if(s[i-1] > s[i]) {
-                flag = false;
-                break;
-            }
-        }
-        if(flag) return 0;
-        if(n == 2) {
+        if(n <= 1) return 0;
+        else if(n == 2) {
+            if(s[0] <= s[1]) return 0;
             return -1;
         }
-        flag = true;
-        bool flag2 = true;
-        char first = s[0],last = s[n-1];
+        int sp = 0,lp = n-1;
         for(int i = 0; i<n; i++) {
-            if(first > s[i]) flag = false;
-            if(last < s[i]) flag2 = false;
+            if(s[sp] > s[i]) sp = i;
+            if(s[lp] <= s[i]) lp = i;
         }
-        if(flag || flag2) return 1;
-        flag = true,flag2 = true;
-        for(int i = 0; i<n; i++) {
-            if(i > 0 && first <= s[i]) {
-                flag = false;
-            }
-            if(i < n-1 && last >= s[i]) {
-                flag2 = false;
-            }
-            //cout<<flag<<" "<<flag2<<" "<<i<<endl;
-        }
-        if(flag && flag2) return 3;
-        return 2;
+        string t = s;
+        sort(t.begin(),t.end());
+        if(s == t) return 0;
+        //cout<<sp<<" "<<lp<<endl;
+        int cnt = 0;
+        if(sp != 0) cnt++;
+        if(lp != n-1) cnt++;
+        if(sp == n-1 && lp == 0) cnt++;
+        return max(1,cnt);
     }
 };
