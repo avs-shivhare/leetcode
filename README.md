@@ -725,6 +725,7 @@ Happy Coding in C++! 🚀
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/avs-shivhare/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
