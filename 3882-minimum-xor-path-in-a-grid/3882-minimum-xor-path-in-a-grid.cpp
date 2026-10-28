@@ -2,13 +2,12 @@ class Solution {
 public:
     vector<vector<vector<int>>> dp;
     int find(int r,int c,int x,vector<vector<int>> &grid) {
-        if(r == grid.size()-1 && c == grid[0].size()-1) {
-            return x^grid[r][c];
-        }
+        //cout<<r<<" "<<c<<" "<<x<<endl;
+        if(r == grid.size()-1 && c == grid[0].size()-1) return grid[r][c]^x;
+        if(r >= grid.size() || c >= grid[0].size()) return 1e9;
         if(dp[r][c][x] != -1) return dp[r][c][x];
-        int ans = INT_MAX;
-        if(c+1 < grid[0].size()) ans = min(ans,find(r,c+1,grid[r][c]^x,grid));
-        if(r+1 < grid.size()) ans = min(ans,find(r+1,c,grid[r][c]^x,grid));
+        int ans = 1e9;
+        ans = min({ans,find(r+1,c,x^grid[r][c],grid),find(r,c+1,x^grid[r][c],grid)});
         return dp[r][c][x] = ans;
     }
     int minCost(vector<vector<int>>& grid) {
