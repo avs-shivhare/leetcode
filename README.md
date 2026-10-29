@@ -442,6 +442,7 @@ Happy Coding in C++! 🚀
 | [3827-implement-router](https://github.com/avs-shivhare/leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/avs-shivhare/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/avs-shivhare/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avs-shivhare/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -732,6 +733,7 @@ Happy Coding in C++! 🚀
 | [3799-word-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/avs-shivhare/leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3838-weighted-word-mapping](https://github.com/avs-shivhare/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/avs-shivhare/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -1002,6 +1004,7 @@ Happy Coding in C++! 🚀
 | [3676-smallest-number-with-all-set-bits](https://github.com/avs-shivhare/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/avs-shivhare/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/avs-shivhare/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/avs-shivhare/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/avs-shivhare/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
@@ -1452,6 +1455,7 @@ Happy Coding in C++! 🚀
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/avs-shivhare/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/avs-shivhare/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/avs-shivhare/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -1866,6 +1870,7 @@ Happy Coding in C++! 🚀
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/avs-shivhare/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/avs-shivhare/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/avs-shivhare/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1896,6 +1901,7 @@ Happy Coding in C++! 🚀
 | [3721-longest-balanced-subarray-ii](https://github.com/avs-shivhare/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/avs-shivhare/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/avs-shivhare/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2150,6 +2156,7 @@ Happy Coding in C++! 🚀
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avs-shivhare/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/avs-shivhare/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/avs-shivhare/leetcode/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -2168,6 +2175,7 @@ Happy Coding in C++! 🚀
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/avs-shivhare/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/avs-shivhare/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/avs-shivhare/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
