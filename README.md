@@ -424,6 +424,7 @@ Happy Coding in C++! 🚀
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/avs-shivhare/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avs-shivhare/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/avs-shivhare/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/avs-shivhare/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/avs-shivhare/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avs-shivhare/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3721-longest-balanced-subarray-ii](https://github.com/avs-shivhare/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -572,6 +573,7 @@ Happy Coding in C++! 🚀
 | [3660-jump-game-ix](https://github.com/avs-shivhare/leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/avs-shivhare/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/avs-shivhare/leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/avs-shivhare/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/avs-shivhare/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/avs-shivhare/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/avs-shivhare/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
