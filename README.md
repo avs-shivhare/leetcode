@@ -472,6 +472,7 @@ Happy Coding in C++! 🚀
 | [3886-sum-of-sortable-integers](https://github.com/avs-shivhare/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/avs-shivhare/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/avs-shivhare/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/avs-shivhare/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -989,6 +990,7 @@ Happy Coding in C++! 🚀
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/avs-shivhare/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/avs-shivhare/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/avs-shivhare/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1069,11 +1071,13 @@ Happy Coding in C++! 🚀
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avs-shivhare/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avs-shivhare/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avs-shivhare/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -2139,6 +2143,7 @@ Happy Coding in C++! 🚀
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/avs-shivhare/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/avs-shivhare/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/avs-shivhare/leetcode/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -2425,4 +2430,8 @@ Happy Coding in C++! 🚀
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avs-shivhare/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/avs-shivhare/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
