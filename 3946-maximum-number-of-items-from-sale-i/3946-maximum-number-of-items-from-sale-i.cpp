@@ -1,28 +1,24 @@
 class Solution {
 public:
-    int dp[1001][1501][2];
-    int find(int i,int b,bool t,vector<vector<int>> &item,vector<int> &free) {
-        if(b < 0) return -1e9;
-        if(i >= item.size()) return 0;
-        if(dp[i][b][t] != -1) return dp[i][b][t];
-        int take = -1e9,notTake = -1e9;
-        if(t) take = 1+find(i,b-item[i][1],t,item,free);
-        else take = 1+find(i,b-item[i][1],true,item,free)+free[i];
-        notTake = find(i+1,b,false,item,free);
-        return dp[i][b][t] = max(take,notTake);
+    int dp[2][1001][1501];
+    int find(int i,int sum,int first,vector<vector<int>> &items,vector<int> &free) {
+        if(sum < 0) return -1e9;
+        if(i >= items.size()) return 0;
+        if(dp[first][i][sum] != -1) return dp[first][i][sum];
+        int take = 1+find(i,sum-items[i][1],0,items,free)+(first ? free[i]: 0);
+        int notTake = find(i+1,sum,1,items,free);
+        return dp[first][i][sum] = max(take,notTake);
     }
     int maximumSaleItems(vector<vector<int>>& items, int budget) {
         int n = items.size();
-        vector<int> cost(n,0);
+        vector<int> free(n,0);
         for(int i = 0; i<n; i++) {
             for(int j = 0; j<n; j++) {
                 if(i == j) continue;
-                if(items[i][0]%items[j][0] == 0) cost[j]++;
+                if(items[j][0]%items[i][0] == 0) free[i]++;
             }
         }
-        // for(auto &i: cost) cout<<i<<" ";
-        // cout<<endl;
         memset(dp,-1,sizeof(dp));
-        return find(0,budget,false,items,cost);
+        return find(0,budget,1,items,free);
     }
 };
