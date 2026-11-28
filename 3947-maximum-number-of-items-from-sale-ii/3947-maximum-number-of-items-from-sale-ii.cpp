@@ -1,50 +1,37 @@
 class Solution {
 public:
     int maximumSaleItems(vector<vector<int>>& items, int budget) {
-        int n = items.size();
-        unordered_map<long long,long long> mpp;
-        for(auto &i: items) {
-            mpp[i[0]]++;
-        }
-        unordered_map<int,int> free;
-        for(auto &i: mpp) {
-            long long x = i.first;
+        unordered_map<int,int> mpp;
+        for(auto &j: items) {
+            long long x = j[0];
             long long sq = sqrt(x);
-            for(long long j = 1; j<=sq; j++) {
-                if(x%j == 0) {
-                    if(j != x) free[j] += i.second;
-                    if(j != x/j && x/j != x) free[x/j] += i.second;
+            for(int i = 1; i<=sq; i++) {
+                if(x%i == 0) {
+                    mpp[i]++;
+                    if(i != x/i) mpp[x/i]++;
                 }
             }
-            if(i.second > 1) {
-                free[i.first] += i.second-1;
+        }
+        sort(items.begin(),items.end(),[&](auto &a,auto &b){
+            if(a[1] == b[1]) return a[0] < b[0];
+            return a[1] < b[1];
+        });
+        long long ans = 0;
+        for(auto &i: items) {
+            long long x = i[1];
+            long long cnt = 0;
+            if(mpp[i[0]] > 1) cnt = mpp[i[0]]-1;
+            cnt = min(cnt,1ll*budget/i[1]);
+            //cout<<i[0]<<" "<<i[1]<<" "<<cnt<<endl;
+            if(2ll*cnt*items[0][1] >= cnt*x) {
+                //cout<<2ll*cnt*items[0][1]<<" "<<(2ll*cnt*items[0][1] >= x && cnt > 1)<<endl;
+                //cout<<i[0]<<" "<<i[1]<<" "<<cnt<<endl;
+                budget -= x*cnt;
+                ans += cnt*2ll;
             }
         }
-        priority_queue<pair<long long,long long>,vector<pair<long long,long long>>,greater<pair<long long,long long>>> q;
-        int mini = 0;
-        for(int i = 0; i<n; i++) {
-            if(items[mini][1] > items[i][1]) mini = i;
-            if(free[items[i][0]]) q.push({items[i][1],i});
-        }
-        // for(auto &i: free) {
-        //     cout<<i.first<<" "<<i.second<<endl;
-        // }
-        long long cnt = 0;
-        while(!q.empty()) {
-            long long cost = q.top().first;
-            int ind = q.top().second;
-            if(2ll*items[mini][1] > cost && budget >= cost) {
-                long long div = 1ll*budget/items[ind][1];
-                div = min(div,(long long)free[items[ind][0]]);
-                budget -= cost*div;
-                cnt += 2ll*div;
-                //cout<<ind<<" "<<div<<" "<<cost<<endl;
-            }
-            q.pop();
-        }
-        if(budget >= items[mini][1]) {
-            cnt += budget/items[mini][1];
-        }
-        return cnt;
+        //cout<<budget<<endl;
+        ans += 1ll*budget/items[0][1];
+        return ans;
     }
 };
